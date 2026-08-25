@@ -1,0 +1,59 @@
+{
+  "week": 1,
+  "short": 3,
+  "title": "The One Question That Ended It",
+  "script": "Dolores wanted to set aside money for the church roof. She did not want the cash sitting in her house, so she brought two hundred and forty dollars to Harold on a Friday afternoon.\n\nHarold was the church treasurer. He gave Dolores a receipt from the office book and told her the money would sit in the church reserve.\n\nFor years, Dolores trusted the paper more than her memory. She kept each receipt in a blue envelope in the kitchen drawer. When a new green deposit slip appeared, she noticed that its account number was longer than the old one.\n\nDolores mentioned it to Harold in the corridor. He looked at the slip and said the bank had changed its numbering system.\n\nNine years later, the teller asked for the original slips. Dolores placed them on the counter until the envelope was empty.",
+  "image_refs": [
+    4,
+    5,
+    6,
+    8,
+    9,
+    29,
+    35,
+    38
+  ],
+  "predicted_duration_seconds": 59.2,
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "Dolores wanted to set aside money for the church roof."
+    },
+    {
+      "image": 2,
+      "t": 7,
+      "line": "in her house, so she brought two hundred and forty"
+    },
+    {
+      "image": 3,
+      "t": 14.5,
+      "line": "was the church treasurer. He gave Dolores a receipt from"
+    },
+    {
+      "image": 4,
+      "t": 21.9,
+      "line": "would sit in the church reserve. For years, Dolores trusted"
+    },
+    {
+      "image": 5,
+      "t": 29.4,
+      "line": "each receipt in a blue envelope in the kitchen drawer."
+    },
+    {
+      "image": 6,
+      "t": 36.8,
+      "line": "noticed that its account number was longer than the old"
+    },
+    {
+      "image": 7,
+      "t": 44.3,
+      "line": "corridor. He looked at the slip and said the bank"
+    },
+    {
+      "image": 8,
+      "t": 51.7,
+      "line": "the teller asked for the original slips. Dolores placed them"
+    }
+  ]
+}

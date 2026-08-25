@@ -1,0 +1,59 @@
+{
+  "week": 1,
+  "short": 2,
+  "title": "Nobody Checked The Ledger For Nine Years",
+  "script": "Harold kept two records for the church deposits. The other was a bank account that received the money and sent some of it back.\n\nThe gap between the two records grew slowly. Most deposits were below five hundred dollars. Most withdrawals were below three thousand. No single movement made the whole pattern visible.\n\nHarold used new deposits to cover withdrawals from older pages. He entered the transfers in a workbook that never went to the church council. The council saw a clean summary.\n\nThe system lasted because nobody asked for every page and every bank statement at the same time. Each person knew only one total.\n\nThree details were present. Account numbers changed without a new agreement. The council received summaries instead of statements. Receipts were available, but the supporting bank records were not.",
+  "image_refs": [
+    11,
+    17,
+    18,
+    20,
+    21,
+    31,
+    32,
+    36
+  ],
+  "predicted_duration_seconds": 55.4,
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "Harold kept two records for the church deposits. The other"
+    },
+    {
+      "image": 2,
+      "t": 6.6,
+      "line": "the money and sent some of it back. The gap"
+    },
+    {
+      "image": 3,
+      "t": 13.7,
+      "line": "deposits were below five hundred dollars. Most withdrawals were below"
+    },
+    {
+      "image": 4,
+      "t": 20.7,
+      "line": "whole pattern visible. Harold used new deposits to cover withdrawals"
+    },
+    {
+      "image": 5,
+      "t": 27.7,
+      "line": "in a workbook that never went to the church council."
+    },
+    {
+      "image": 6,
+      "t": 34.3,
+      "line": "The system lasted because nobody asked for every page and"
+    },
+    {
+      "image": 7,
+      "t": 41.4,
+      "line": "Each person knew only one total. Three details were present."
+    },
+    {
+      "image": 8,
+      "t": 48.4,
+      "line": "The council received summaries instead of statements. Receipts were available,"
+    }
+  ]
+}

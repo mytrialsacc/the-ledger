@@ -1,0 +1,59 @@
+{
+  "week": 1,
+  "short": 1,
+  "title": "The Deposit Slip That Didn't Match",
+  "script": "On a Tuesday morning, Dolores walked into her bank and was told her account had been closed nine months earlier. She had been depositing into it every single Friday.\n\nThe teller checked the receipts in Dolores's blue envelope. Dolores had given the money to Harold at the church office, and Harold had given her a receipt each time.\n\nHarold had been the church treasurer for nine years. When the church changed banks, he brought new green slips and said the numbering system had changed.\n\nThe account on those slips belonged to a holding company Harold had registered after his wife died. It had no office and no employees. Its only regular activity was receiving church deposits and sending money back when someone asked for a withdrawal.\n\nThe blue envelope held receipts for forty one thousand, eight hundred and sixteen dollars. The bank account held nothing.",
+  "image_refs": [
+    1,
+    2,
+    3,
+    25,
+    26,
+    27,
+    30,
+    39
+  ],
+  "predicted_duration_seconds": 60,
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "On a Tuesday morning, Dolores walked into her bank and"
+    },
+    {
+      "image": 2,
+      "t": 7.4,
+      "line": "months earlier. She had been depositing into it every single"
+    },
+    {
+      "image": 3,
+      "t": 14.9,
+      "line": "blue envelope. Dolores had given the money to Harold at"
+    },
+    {
+      "image": 4,
+      "t": 22.3,
+      "line": "a receipt each time. Harold had been the church treasurer"
+    },
+    {
+      "image": 5,
+      "t": 29.8,
+      "line": "he brought new green slips and said the numbering system"
+    },
+    {
+      "image": 6,
+      "t": 37.2,
+      "line": "to a holding company Harold had registered after his wife"
+    },
+    {
+      "image": 7,
+      "t": 44.7,
+      "line": "Its only regular activity was receiving church deposits and sending"
+    },
+    {
+      "image": 8,
+      "t": 52.1,
+      "line": "The blue envelope held receipts for forty one thousand, eight"
+    }
+  ]
+}

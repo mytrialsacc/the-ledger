@@ -1,0 +1,374 @@
+{
+  "week": 1,
+  "title": "They Called Him The Church Treasurer",
+  "publish_date": "31 August 2026",
+  "sub_type": "Insider / Trusted Custodian",
+  "structure": "Cold open, then rewind",
+  "script": "On a Tuesday morning, Dolores walked into her bank and was told her account had been closed nine months earlier. She had been depositing into it every single Friday.\n\nThe teller turned the monitor toward her and pointed to a line dated the previous autumn. The balance was zero. Dolores had kept every receipt in a blue envelope in the kitchen drawer, and the receipts showed a balance of forty one thousand, eight hundred and sixteen dollars.\n\nDolores called Harold from the bank lobby. Harold had been the church treasurer for nine years, the man who counted the Sunday collection after everyone else had gone home.\n\nBefore Harold arrived, Dolores placed the blue envelope on the counter. The teller compared deposits with the bank record. The amounts were close, but the account numbers were not the same. Dolores had been handing her money to Harold at the church office.\n\nNine years earlier, Harold was the person people asked to carry the keys. He was fifty eight, worked mornings at a heating company, and arrived at the church before the caretaker. He knew which cupboard held the spare candles and which drawer held the old donation books.\n\nHis wife had died in late winter, and after that he began staying after the Wednesday service to finish the accounts. Dolores was the first to bring him a question about the church reserve. She wanted to set aside money for the roof repairs, but she did not want the cash sitting in her house.\n\nHarold offered a simple arrangement. He would record each payment in the reserve ledger, place the cash in the church account, and give Dolores a receipt from the office book. The church already had a bank relationship, and the process looked familiar. Dolores gave him two hundred and forty dollars that Friday.\n\nWithin a month, six people were making the same deposits. Harold kept a separate page for each person, using their names, dates, and amounts. The pages were kept behind the regular ledger, because the reserve was not part of the Sunday collection and Harold said the books would be easier to reconcile that way.\n\nIn the third year, Harold asked Dolores to make deposits into a new account number. He said the church had changed banks and the old slips would no longer scan. The new slips were green instead of white. They carried the church name, but the account number was printed in a smaller type.\n\nDolores noticed that the new account number had twelve characters and the old one had ten. She mentioned it to Harold in the corridor. He looked at the slip, tapped the paper with his finger, and said the bank had changed its numbering system.\n\nThe new account accepted deposits for almost four years. Harold moved money between three accounts, using transfers that appeared to come from the church reserve. He used new deposits to cover withdrawals from older pages, then entered the transfers in a workbook that never went to the church council.\n\nThe system held because no one asked for all the pages at once. Each depositor knew his or her own total. The council saw a clean summary. The bank saw ordinary transfers between accounts. Harold saw the gap growing by a few hundred dollars at a time.\n\nIn the ninth year, the roof repair was finally approved. The contractor asked for a deposit of seventeen thousand, nine hundred and sixty dollars. Dolores offered to release part of her reserve. Harold said the account had already been moved and that the bank would send the money directly.\n\nThe money did not arrive. Harold said the transfer had been held for review, then said the contractor had changed the invoice. During those three weeks, Martin asked for his money to pay a medical bill. Harold gave him a cheque from the church account.\n\nThe cheque cleared, but it was followed by two more withdrawals. The older depositors were paid from money that had arrived from newer depositors. Harold did not need a new story each time. He needed only another Friday and one more receipt.\n\nDolores went to the bank after the teller called her about a returned transfer. The teller searched by her name and found no personal reserve account. She searched by the church name and found an account that had been closed nine months before. The bank had sent the closing notice to an address Harold had supplied.\n\nHarold arrived at the branch wearing the same dark coat he wore for council meetings. He said the bank had made an error. The teller asked for the original deposit slips. Dolores placed them on the counter, one by one, until the blue envelope was empty.\n\nThe slips carried a routing line that pointed to a real bank, but the account belonged to a small holding company that Harold had registered after his wife died. The company had no office and no employees. Its only regular activity was receiving the church deposits and sending money back when someone requested a withdrawal.\n\nThe total shortfall was two hundred and eighteen thousand, six hundred and forty two dollars. Forty seven people had deposited over nine years. Twelve had received nearly everything they put in. Twenty nine had lost between two thousand and nine thousand dollars. Six people had lost more than ten thousand.\n\nHarold admitted the transfers in a statement written over two afternoons. He said the first withdrawal had paid for a furnace repair after his wife died. He said he planned to replace the money before anyone noticed.\n\nThat was the machine. Harold took a deposit, recorded it on a page that looked official, and placed the money where it could serve two records. One record promised a balance to a person. The other record showed a movement of money to a bank. Neither record showed the whole path.\n\nThree details had been visible. The account numbers changed without a new agreement. The council received summaries instead of statements. The receipts were always available, but the supporting bank records were not.\n\nHarold had also made the scheme harder to see by keeping the amounts ordinary. Most deposits were below five hundred dollars. Most withdrawals were below three thousand. The numbers did not create a single dramatic event. They created a habit.\n\nDolores kept the blue envelope in the same kitchen drawer, but she no longer used it for receipts. The last paper inside it was the bank notice dated nine months before she opened it.",
+  "predicted_duration_seconds": 449.7,
+  "negative_prompt": "cartoon, illustration, CGI, glossy digital art, visible face, readable text, signage, logo, watermark, numbers, oversaturated colors, harsh flash, studio lighting, distorted anatomy, extra limbs",
+  "prompts": [
+    {
+      "image": "01",
+      "prompt": "A wide exterior of a modest bank branch, quiet suburban street, late nineteen nineties architecture, early Tuesday morning, pale overcast light, thirty five millimeter documentary lens and film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "02",
+      "prompt": "A medium view of an older woman seen from behind at a bank counter, modest office interior, late nineteen nineties clothing, early morning, soft fluorescent light mixed with window light, fifty millimeter lens and restrained film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "03",
+      "prompt": "A close detail of a blue paper envelope beside a bank counter, late nineteen nineties stationery and wood laminate, morning, cool window light with soft shadows, macro lens and fine film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "04",
+      "prompt": "A wide church office after Sunday service, empty chairs and locked wooden cupboards, late nineteen nineties interior, late afternoon, amber light through narrow windows, thirty five millimeter lens and quiet film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "05",
+      "prompt": "A medium wide human figure carrying a ring of keys through a church hallway, late nineteen nineties work clothes, early evening, warm practical light, fifty millimeter lens and muted film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "06",
+      "prompt": "A close detail of brass keys resting beside a wooden donation box, late nineteen nineties church objects, evening, narrow warm light and deep soft shadow, macro lens and grainy film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "07",
+      "prompt": "A wide view of a modest church roof above a small neighborhood, late nineteen nineties construction, clear Friday afternoon, gentle warm sunlight, thirty five millimeter lens and documentary film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "08",
+      "prompt": "A medium human figure placing cash into a plain envelope at a church desk, late nineteen nineties clothing, Friday afternoon, side window light softened by curtains, fifty millimeter lens and natural film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "09",
+      "prompt": "A close detail of a hand folding a receipt into blue paper, late nineteen nineties paper textures, afternoon, soft directional daylight, macro lens and delicate film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "10",
+      "prompt": "A wide church meeting room with several people seated as indistinct figures, late nineteen nineties furniture, Wednesday evening, warm ceiling light and dark corners, thirty five millimeter lens and observational film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "11",
+      "prompt": "A medium view of a separate ledger page being placed behind a larger book, late nineteen nineties office materials, evening, desk lamp light with soft falloff, fifty millimeter lens and restrained film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "12",
+      "prompt": "A close detail of blank ruled paper, a fountain pen, and a closed account book, late nineteen nineties stationery, night, pool of warm lamp light, macro lens and fine grain film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "13",
+      "prompt": "A wide suburban street leading toward a small bank and church, late nineteen nineties cars, late afternoon, low hazy sunlight, thirty five millimeter lens and quiet documentary film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "14",
+      "prompt": "A medium view of green deposit slips spread on a plain desk, late nineteen nineties banking materials, weekday afternoon, even window light, fifty millimeter lens and muted film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "15",
+      "prompt": "A close detail of a thumb pressing down on a green paper slip, late nineteen nineties paper and ink, afternoon, soft natural light, macro lens and tactile film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "16",
+      "prompt": "A wide records room with filing cabinets and a lone human figure in silhouette, late nineteen nineties office design, early morning, grey daylight through blinds, thirty five millimeter lens and subdued film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "17",
+      "prompt": "A medium view of folders being moved between three plain cardboard boxes, late nineteen nineties office supplies, midday, flat natural window light, fifty millimeter lens and documentary film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "18",
+      "prompt": "A close detail of stacked bank envelopes with their contents hidden, late nineteen nineties paper textures, midday, muted side light, macro lens and fine grain film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "19",
+      "prompt": "A wide church council table with empty chairs and papers turned face down, late nineteen nineties meeting room, dusk, fading blue light through windows, thirty five millimeter lens and still film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "20",
+      "prompt": "A medium human figure placing a stack of summary pages beside a closed ledger, late nineteen nineties clothing, dusk, warm desk lamp and cool window light, fifty millimeter lens and quiet film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "21",
+      "prompt": "A close detail of a calculator beside an unopened bank statement, late nineteen nineties desk objects, evening, narrow lamp light, macro lens and restrained film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "22",
+      "prompt": "A wide unfinished church roof repair with timber and tarps, late nineteen nineties construction methods, overcast morning, flat grey light, thirty five millimeter lens and documentary film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "23",
+      "prompt": "A medium human figure holding an invoice folder outside a church, late nineteen nineties workwear, cloudy afternoon, soft cold daylight, fifty millimeter lens and muted film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "24",
+      "prompt": "A close detail of a rubber stamp, folded invoice, and plain manila folder, late nineteen nineties office materials, afternoon, diffused window light, macro lens and fine grain film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "25",
+      "prompt": "A wide bank lobby with a few indistinct people and a long empty counter, late nineteen nineties interior, morning, pale overhead light, thirty five millimeter lens and observational film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "26",
+      "prompt": "A medium view of an older woman placing papers on a bank counter, late nineteen nineties cardigan and office furniture, morning, soft window light, fifty millimeter lens and quiet film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "27",
+      "prompt": "A close detail of receipts arranged in a careful line on dark laminate, late nineteen nineties paper, morning, clean side light, macro lens and tactile film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "28",
+      "prompt": "A wide empty office beside a small church, late nineteen nineties suburban building, late afternoon, long muted shadows, thirty five millimeter lens and quiet film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "29",
+      "prompt": "A medium dark coat hanging on a chair in a church meeting room, late nineteen nineties clothing and furniture, evening, warm window light fading into shadow, fifty millimeter lens and subdued film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "30",
+      "prompt": "A close detail of a blue envelope opened and left empty on a counter, late nineteen nineties paper, evening, soft overhead light, macro lens and fine grain film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "31",
+      "prompt": "A wide industrial office park with one small unmarked doorway, late nineteen nineties architecture, early morning, low hazy light, thirty five millimeter lens and documentary film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "32",
+      "prompt": "A medium view of a plain metal filing cabinet and a cardboard box on the floor, late nineteen nineties office objects, morning, pale natural window light, fifty millimeter lens and muted film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "33",
+      "prompt": "A close detail of a blank company folder beside a set of keys, late nineteen nineties office materials, morning, soft directional light, macro lens and tactile film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "34",
+      "prompt": "A wide church sanctuary with a repaired roof visible through high windows, late nineteen nineties interior, late afternoon, warm dusty sunlight, thirty five millimeter lens and contemplative film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "35",
+      "prompt": "A medium human figure seated alone at a church office desk, face turned away, late nineteen nineties clothing, evening, single warm lamp and surrounding shadow, fifty millimeter lens and restrained film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "36",
+      "prompt": "A close detail of a closed ledger beside a cold cup of coffee, late nineteen nineties office objects, night, small pool of amber lamp light, macro lens and fine grain film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "37",
+      "prompt": "A wide kitchen with a wooden drawer slightly open, modest home interior, late nineteen nineties furniture, early morning, soft natural light, thirty five millimeter lens and documentary film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "38",
+      "prompt": "A medium view of the blue envelope returned to a kitchen drawer, late nineteen nineties domestic setting, morning, pale window light, fifty millimeter lens and quiet film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "39",
+      "prompt": "A close detail of one final bank notice resting inside a blue envelope, late nineteen nineties paper and wood, morning, soft side light, macro lens and delicate film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "40",
+      "prompt": "A wide quiet church exterior after rain, late nineteen nineties neighborhood, late afternoon, muted sunlight beneath clouds, thirty five millimeter lens and still documentary film character, warm muted desaturated color grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    }
+  ],
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "On a Tuesday morning, Dolores walked into her bank and"
+    },
+    {
+      "image": 2,
+      "t": 11.2,
+      "line": "single Friday. The teller turned the monitor toward her and"
+    },
+    {
+      "image": 3,
+      "t": 22.3,
+      "line": "in a blue envelope in the kitchen drawer, and the"
+    },
+    {
+      "image": 4,
+      "t": 33.5,
+      "line": "the bank lobby. Harold had been the church treasurer for"
+    },
+    {
+      "image": 5,
+      "t": 44.7,
+      "line": "arrived, Dolores placed the blue envelope on the counter. The"
+    },
+    {
+      "image": 6,
+      "t": 55.9,
+      "line": "the same. Dolores had been handing her money to Harold"
+    },
+    {
+      "image": 7,
+      "t": 67.4,
+      "line": "was fifty eight, worked mornings at a heating company, and"
+    },
+    {
+      "image": 8,
+      "t": 78.6,
+      "line": "drawer held the old donation books. His wife had died"
+    },
+    {
+      "image": 9,
+      "t": 89.8,
+      "line": "Dolores was the first to bring him a question about"
+    },
+    {
+      "image": 10,
+      "t": 101,
+      "line": "want the cash sitting in her house. Harold offered a"
+    },
+    {
+      "image": 11,
+      "t": 112.1,
+      "line": "account, and give Dolores a receipt from the office book."
+    },
+    {
+      "image": 12,
+      "t": 123.3,
+      "line": "and forty dollars that Friday. Within a month, six people"
+    },
+    {
+      "image": 13,
+      "t": 134.9,
+      "line": "amounts. The pages were kept behind the regular ledger, because"
+    },
+    {
+      "image": 14,
+      "t": 146,
+      "line": "to reconcile that way. In the third year, Harold asked"
+    },
+    {
+      "image": 15,
+      "t": 157.2,
+      "line": "the old slips would no longer scan. The new slips"
+    },
+    {
+      "image": 16,
+      "t": 168.4,
+      "line": "a smaller type. Dolores noticed that the new account number"
+    },
+    {
+      "image": 17,
+      "t": 179.6,
+      "line": "He looked at the slip, tapped the paper with his"
+    },
+    {
+      "image": 18,
+      "t": 190.7,
+      "line": "four years. Harold moved money between three accounts, using transfers"
+    },
+    {
+      "image": 19,
+      "t": 202.3,
+      "line": "then entered the transfers in a workbook that never went"
+    },
+    {
+      "image": 20,
+      "t": 213.5,
+      "line": "Each depositor knew his or her own total. The council"
+    },
+    {
+      "image": 21,
+      "t": 224.7,
+      "line": "a few hundred dollars at a time. In the ninth"
+    },
+    {
+      "image": 22,
+      "t": 235.8,
+      "line": "hundred and sixty dollars. Dolores offered to release part of"
+    },
+    {
+      "image": 23,
+      "t": 247,
+      "line": "money directly. The money did not arrive. Harold said the"
+    },
+    {
+      "image": 24,
+      "t": 258.6,
+      "line": "Martin asked for his money to pay a medical bill."
+    },
+    {
+      "image": 25,
+      "t": 269.8,
+      "line": "two more withdrawals. The older depositors were paid from money"
+    },
+    {
+      "image": 26,
+      "t": 280.9,
+      "line": "only another Friday and one more receipt. Dolores went to"
+    },
+    {
+      "image": 27,
+      "t": 292.1,
+      "line": "and found no personal reserve account. She searched by the"
+    },
+    {
+      "image": 28,
+      "t": 303.3,
+      "line": "the closing notice to an address Harold had supplied. Harold"
+    },
+    {
+      "image": 29,
+      "t": 314.4,
+      "line": "bank had made an error. The teller asked for the"
+    },
+    {
+      "image": 30,
+      "t": 326,
+      "line": "The slips carried a routing line that pointed to a"
+    },
+    {
+      "image": 31,
+      "t": 337.2,
+      "line": "wife died. The company had no office and no employees."
+    },
+    {
+      "image": 32,
+      "t": 348.4,
+      "line": "withdrawal. The total shortfall was two hundred and eighteen thousand,"
+    },
+    {
+      "image": 33,
+      "t": 359.5,
+      "line": "nearly everything they put in. Twenty nine had lost between"
+    },
+    {
+      "image": 34,
+      "t": 370.7,
+      "line": "transfers in a statement written over two afternoons. He said"
+    },
+    {
+      "image": 35,
+      "t": 381.9,
+      "line": "to replace the money before anyone noticed. That was the"
+    },
+    {
+      "image": 36,
+      "t": 393.5,
+      "line": "it could serve two records. One record promised a balance"
+    },
+    {
+      "image": 37,
+      "t": 404.6,
+      "line": "the whole path. Three details had been visible. The account"
+    },
+    {
+      "image": 38,
+      "t": 415.8,
+      "line": "available, but the supporting bank records were not. Harold had"
+    },
+    {
+      "image": 39,
+      "t": 427,
+      "line": "hundred dollars. Most withdrawals were below three thousand. The numbers"
+    },
+    {
+      "image": 40,
+      "t": 438.1,
+      "line": "the same kitchen drawer, but she no longer used it"
+    }
+  ]
+}
