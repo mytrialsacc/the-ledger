@@ -1,0 +1,59 @@
+{
+  "week": 2,
+  "short": 3,
+  "title": "Her Bank Tried To Stop Her Three Times",
+  "script": "Evelyn's bank called her three times during the year after Arthur first received a payment. The first call concerned a company outside her state. The second came after a transfer had been returned and sent again. The third followed a move from a certificate of deposit.\n\nEach time, Evelyn said the payments were connected to a person she knew. She said Arthur was travelling and the matter was private. The bank employee recorded her answer and closed the note.\n\nArthur never told Evelyn to hide anything. He said Claire would worry because she loved her. He said the bank had become suspicious of ordinary people.\n\nThe calls became closer together as Evelyn's savings became smaller. The amounts stayed small enough to explain. Four hundred dollars for a document. Two thousand for a release charge. Six thousand for a tax payment.\n\nThe bank had seen the pattern before Evelyn could name it.",
+  "image_refs": [
+    16,
+    22,
+    23,
+    24,
+    25,
+    29,
+    34,
+    36
+  ],
+  "predicted_duration_seconds": 62.5,
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "Evelyn's bank called her three times during the year after"
+    },
+    {
+      "image": 2,
+      "t": 7.4,
+      "line": "concerned a company outside her state. The second came after"
+    },
+    {
+      "image": 3,
+      "t": 15.3,
+      "line": "third followed a move from a certificate of deposit. Each"
+    },
+    {
+      "image": 4,
+      "t": 23.2,
+      "line": "person she knew. She said Arthur was travelling and the"
+    },
+    {
+      "image": 5,
+      "t": 31,
+      "line": "and closed the note. Arthur never told Evelyn to hide"
+    },
+    {
+      "image": 6,
+      "t": 38.9,
+      "line": "her. He said the bank had become suspicious of ordinary"
+    },
+    {
+      "image": 7,
+      "t": 46.8,
+      "line": "became smaller. The amounts stayed small enough to explain. Four"
+    },
+    {
+      "image": 8,
+      "t": 54.6,
+      "line": "release charge. Six thousand for a tax payment. The bank"
+    }
+  ]
+}

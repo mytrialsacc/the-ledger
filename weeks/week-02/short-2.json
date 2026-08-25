@@ -1,0 +1,59 @@
+{
+  "week": 2,
+  "short": 2,
+  "title": "The Photo Was Eleven Years Old",
+  "script": "Evelyn saved Arthur's photograph to her computer under his first name. It showed a man near a railway platform, his face turned partly away. She believed it was recent because Arthur sent it while describing his next trip.\n\nThree years later, after Arthur's number stopped working, Evelyn searched the image file. The photograph had been copied from a public travel archive. It was eleven years old.\n\nThe man in the photograph was not Arthur. He was a retired engineer from another country who had never spoken to Evelyn.\n\nThe image had carried the relationship from one message to the next. It gave Arthur a face without requiring him to appear. Every other photograph showed a road, a hotel window, a work boot, or a train platform.\n\nEvelyn kept the first message beside her husband's old train tickets. The photograph was the part of the story that had arrived before the money.",
+  "image_refs": [
+    10,
+    11,
+    14,
+    18,
+    27,
+    31,
+    32,
+    39
+  ],
+  "predicted_duration_seconds": 62.5,
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "Evelyn saved Arthur's photograph to her computer under his first"
+    },
+    {
+      "image": 2,
+      "t": 7.4,
+      "line": "platform, his face turned partly away. She believed it was"
+    },
+    {
+      "image": 3,
+      "t": 15.3,
+      "line": "trip. Three years later, after Arthur's number stopped working, Evelyn"
+    },
+    {
+      "image": 4,
+      "t": 23.2,
+      "line": "from a public travel archive. It was eleven years old."
+    },
+    {
+      "image": 5,
+      "t": 31,
+      "line": "was a retired engineer from another country who had never"
+    },
+    {
+      "image": 6,
+      "t": 38.9,
+      "line": "from one message to the next. It gave Arthur a"
+    },
+    {
+      "image": 7,
+      "t": 46.8,
+      "line": "showed a road, a hotel window, a work boot, or"
+    },
+    {
+      "image": 8,
+      "t": 54.6,
+      "line": "her husband's old train tickets. The photograph was the part"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "week": 2,
+  "short": 1,
+  "title": "He Never Asked For Money. Not Once.",
+  "script": "He never asked her for money. Not once. That was the whole design.\n\nEvelyn was seventy nine when Arthur found her name beneath a photograph of an old railway station. He wrote about the photograph, remembered details she had mentioned, and waited three days before sending another message.\n\nArthur said he worked on commercial building sites. He sent pictures of empty roads, hotel windows, and work boots beside a hard case. His face appeared only once, in a photograph that looked years old.\n\nWhen a courier misplaced his work documents, Arthur said he could not accept help. Evelyn paid one thousand, eight hundred and forty dollars anyway. She told her daughter she had bought equipment for the house.\n\nArthur kept refusing her money in words. He only described the next delay, the next document, and the next deadline. Evelyn offered a solution before he named one.",
+  "image_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "predicted_duration_seconds": 60.4,
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "He never asked her for money. Not once. That was"
+    },
+    {
+      "image": 2,
+      "t": 7.4,
+      "line": "Arthur found her name beneath a photograph of an old"
+    },
+    {
+      "image": 3,
+      "t": 14.9,
+      "line": "details she had mentioned, and waited three days before sending"
+    },
+    {
+      "image": 4,
+      "t": 22.3,
+      "line": "building sites. He sent pictures of empty roads, hotel windows,"
+    },
+    {
+      "image": 5,
+      "t": 30.2,
+      "line": "appeared only once, in a photograph that looked years old."
+    },
+    {
+      "image": 6,
+      "t": 37.6,
+      "line": "said he could not accept help. Evelyn paid one thousand,"
+    },
+    {
+      "image": 7,
+      "t": 45.1,
+      "line": "her daughter she had bought equipment for the house. Arthur"
+    },
+    {
+      "image": 8,
+      "t": 52.5,
+      "line": "described the next delay, the next document, and the next"
+    }
+  ]
+}
