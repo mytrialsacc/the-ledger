@@ -1,0 +1,59 @@
+{
+  "week": 3,
+  "short": 2,
+  "title": "The Permit Was Real. The Company Wasn't.",
+  "script": "Marcus and Helen paid Leon seventeen thousand, six hundred dollars for a roof and new gutters. He took half on the first day. He took the other half after showing them a permit with their address printed across the top.\n\nThe permit was real. It had been issued for a different contractor who had withdrawn from the job two months earlier. Leon copied the permit number onto his own invoice. The county system showed a valid record, but it did not show Leon's name in the driveway.\n\nBy the time the county called homeowners, Leon had used five business names. They appeared on estimates, truck magnets, and envelopes left in kitchens. None had a permanent office. Some addresses led to mailboxes or storage units.\n\nThe permit belonged to the county. The company on the invoice belonged to Leon.",
+  "image_refs": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "predicted_duration_seconds": 57.1,
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "Marcus and Helen paid Leon seventeen thousand, six hundred dollars"
+    },
+    {
+      "image": 2,
+      "t": 7,
+      "line": "took half on the first day. He took the other"
+    },
+    {
+      "image": 3,
+      "t": 14.1,
+      "line": "their address printed across the top. The permit was real."
+    },
+    {
+      "image": 4,
+      "t": 21.1,
+      "line": "contractor who had withdrawn from the job two months earlier."
+    },
+    {
+      "image": 5,
+      "t": 28.5,
+      "line": "invoice. The county system showed a valid record, but it"
+    },
+    {
+      "image": 6,
+      "t": 35.6,
+      "line": "driveway. By the time the county called homeowners, Leon had"
+    },
+    {
+      "image": 7,
+      "t": 42.6,
+      "line": "estimates, truck magnets, and envelopes left in kitchens. None had"
+    },
+    {
+      "image": 8,
+      "t": 49.6,
+      "line": "mailboxes or storage units. The permit belonged to the county."
+    }
+  ]
+}

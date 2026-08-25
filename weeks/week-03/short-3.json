@@ -1,0 +1,59 @@
+{
+  "week": 3,
+  "short": 3,
+  "title": "Why The Deposit Is Always Fifty Percent",
+  "script": "Leon arrived after the storm with a ladder and a clipboard. He measured the roof, counted the vents, and explained the damage in language that sounded familiar. Then he asked for the first payment.\n\nThe payment was usually half the project. Leon said it covered materials and reserved a crew. The materials did not arrive. The money moved to a storage unit, a credit card balance, fuel, groceries, and the deposit on another house.\n\nThe first repair made the invoice look real. A few shingles came off. A blue tarp covered the opening. The homeowner had a reason to wait because part of the work had begun.\n\nLeon used new deposits to keep old projects moving. Each first day had a ladder, a measurement, a partial repair, and a reason to return. The largest amount was due before the first bundle of materials reached the driveway.",
+  "image_refs": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "predicted_duration_seconds": 60.4,
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "Leon arrived after the storm with a ladder and a"
+    },
+    {
+      "image": 2,
+      "t": 7.4,
+      "line": "and explained the damage in language that sounded familiar. Then"
+    },
+    {
+      "image": 3,
+      "t": 14.9,
+      "line": "was usually half the project. Leon said it covered materials"
+    },
+    {
+      "image": 4,
+      "t": 22.3,
+      "line": "arrive. The money moved to a storage unit, a credit"
+    },
+    {
+      "image": 5,
+      "t": 30.2,
+      "line": "house. The first repair made the invoice look real. A"
+    },
+    {
+      "image": 6,
+      "t": 37.6,
+      "line": "the opening. The homeowner had a reason to wait because"
+    },
+    {
+      "image": 7,
+      "t": 45.1,
+      "line": "new deposits to keep old projects moving. Each first day"
+    },
+    {
+      "image": 8,
+      "t": 52.5,
+      "line": "and a reason to return. The largest amount was due"
+    }
+  ]
+}

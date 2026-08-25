@@ -1,0 +1,374 @@
+{
+  "week": 3,
+  "title": "The Roof Was Never Fixed",
+  "publish_date": "14 September 2026",
+  "sub_type": "Contractor / Home Repair",
+  "structure": "Reverse, open at the verdict",
+  "script": "The county has a file on this man that is four inches thick. It begins with a roof that was never fixed.\n\nLeon Mercer stood in a courtroom in November of two thousand twenty three and listened while a clerk read the number eighty four thousand, two hundred and nineteen dollars. That was the amount homeowners had paid for work that did not exist. Leon had collected deposits from nineteen houses. Seven roofs were opened. None were finished.\n\nThe file contained photographs of blue tarps, bare plywood, and rooms where rain had reached the ceiling. It contained copies of permits, invoices, cancelled cheques, and handwritten notes from people who had slept in their living rooms for weeks. The county called it pattern. Leon called it a run of bad weather and delayed supplies.\n\nGrace Nolan was the first homeowner to speak. She had paid Leon twelve thousand, four hundred and eighty dollars in March of two thousand nineteen. Leon removed three rows of shingles, placed a tarp over the opening, and did not return for twenty eight days. The tarp came loose on the ninth night.\n\nGrace kept a towel beneath the ceiling fan. She moved her dining table against the wall because water had started falling beside the light fixture. Leon sent messages saying the supplier had changed its delivery date. He sent a photograph of a truck bed carrying bundles of shingles. The bundles were not Grace's.\n\nThe second house belonged to Marcus and Helen, aged seventy two. They paid seventeen thousand, six hundred dollars for a full roof and new gutters. Leon took half on the first day. He took the other half after showing them a permit with their address printed across the top.\n\nThe permit was real. It had been issued by the county for a different contractor who had withdrawn from the job two months earlier. Leon had copied the permit number onto his own invoice. The county system showed a valid record, but it did not show the name of the person standing in Marcus and Helen's driveway.\n\nBy the time the county began calling homeowners, Leon had used five business names. The names appeared on estimates, truck magnets, and envelopes left in kitchens. None of the businesses had a staff list. None had a permanent office.\n\nThe work made the invoices look more believable. Leon measured a roof, counted the vents, and noticed the age of the gutters. He knew the language of repair. He could tell Grace that the underlayment was soft without touching it. He could explain a flashing problem while standing in the shade of a porch.\n\nLeon had learned the trade from an uncle in another county. He knew how long a real roof should take and which parts of a job were hard to see from the ground. He also knew that homeowners felt relief when somebody arrived with a ladder and a clipboard. The first visit did not look like a sale.\n\nIn July of two thousand eighteen, Leon began leaving cards in neighborhoods after heavy storms. The cards had no phone number printed on them. They had a name, a county license number, and a promise to inspect damage without charge. The license number belonged to a roofer who had closed his business the year before.\n\nThe first homeowner to call was Martha Bell. A tree limb had cracked two rafters above her back room. Leon arrived on a Tuesday afternoon in a white van with a ladder tied to the roof. He walked around the house twice before he knocked.\n\nMartha was sixty six and had lived in the house since her children were small. She showed Leon the water mark near the window. Leon climbed onto the roof, stayed there for nine minutes, and came down carrying a piece of broken shingle. He said the damage was larger than the mark suggested.\n\nHe wrote an estimate on the hood of his van. The total was nine thousand, eight hundred and forty dollars. He said the first payment would cover materials and put her on the crew schedule. Martha asked when the work could begin. Leon said the following Monday.\n\nOn Monday, Leon arrived with one labourer and removed the damaged shingles. They worked for three hours. Before leaving, Leon placed a blue tarp over the open section and said the materials truck would arrive in two days. The truck did not arrive.\n\nMartha called the number on the estimate. Leon answered on the first call and said the supplier had sent the wrong bundles. On the second call, he said the county inspector had changed the order of the jobs. On the third call, he said the labourer had injured his hand.\n\nMartha did not know that the first deposit had already been divided. Three thousand dollars went to a storage unit. Two thousand went to a credit card balance. The rest paid for fuel, groceries, and a deposit on the next job. The project in Martha's back room had become a source of cash for a different roof.\n\nFor five years, the same arrangement moved through nearby streets. Leon arrived quickly after storms. He made the first repair look real. He collected enough money to begin the next house. When a homeowner complained, he sent a photograph from another roof and gave a new date.\n\nThe first signal was not hidden. Leon's license number belonged to somebody else. The second was visible on every estimate. The company address was a mailbox. The third appeared in the payment schedule. The largest amount was due before the first bundle of materials had reached the driveway.\n\nThe county file grew because each homeowner carried only one part of it. Grace had the tarp photographs. Marcus and Helen had the permit copy. Martha had the first estimate and the dates of three missed visits. The pattern became clear when the documents were placed in one room.\n\nLeon never built a roof that could hold the story together. He built a sequence of first days. Each first day had a ladder, a measurement, a partial repair, and a reason to return. The deposits kept the sequence moving until the county stopped issuing permits in his names.\n\nThe first time Leon entered a neighborhood, he wore a clean shirt and carried a clipboard. Martha opened the front door because a tree had damaged the roof and somebody had arrived before dark. Leon stood in the driveway, looked up at the broken rafters, and offered to take a closer look. Martha shook Leon's hand and gave him the key.",
+  "predicted_duration_seconds": 455.1,
+  "negative_prompt": "cartoon, illustration, CGI, glossy digital art, visible face, readable text, signage, logo, watermark, numbers, oversaturated colors, harsh flash, studio lighting, distorted anatomy, extra limbs",
+  "prompts": [
+    {
+      "image": "01",
+      "prompt": "A wide county courthouse exterior with a thick case file on a stone step, early twenty twenties civic architecture, overcast morning, cool diffused daylight, thirty five millimeter documentary lens and film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "02",
+      "prompt": "A medium view of an indistinct contractor standing in a courtroom aisle, early twenty twenties courtroom clothing and wood benches, morning, pale window light, fifty millimeter lens and restrained film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "03",
+      "prompt": "A close detail of a thick paper file beside a wooden courtroom bench, early twenty twenties legal paperwork without readable text, morning, soft side light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "04",
+      "prompt": "A wide suburban house with a blue tarp covering part of the roof, early twenty twenties residential architecture, grey afternoon, flat storm light, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "05",
+      "prompt": "A medium view of plywood and loose roofing material beside a house, early twenty twenties construction materials, afternoon, muted cloud light, fifty millimeter lens and natural film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "06",
+      "prompt": "A close detail of rainwater collecting in a ceiling bucket, early twenty twenties home interior, evening, soft lamp light, macro lens and tactile film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "07",
+      "prompt": "A wide dining room rearranged against a wall beneath a water stain, early twenty twenties home furniture, late afternoon, pale window light, thirty five millimeter lens and quiet film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "08",
+      "prompt": "A medium human figure placing folded towels beneath a ceiling fan, face not readable, early twenty twenties clothing, evening, warm practical light, fifty millimeter lens and subdued film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "09",
+      "prompt": "A close detail of damp flooring beside a light fixture, early twenty twenties domestic interior, evening, narrow side light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "10",
+      "prompt": "A wide driveway with an older couple facing a contractor near a house, early twenty twenties suburban setting, midday, bright overcast light, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "11",
+      "prompt": "A medium view of a permit folder held above a pickup truck hood, early twenty twenties construction paperwork, midday, soft natural light, fifty millimeter lens and muted film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "12",
+      "prompt": "A close detail of a stamped permit page with no readable text, early twenty twenties county paperwork, midday, diffused light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "13",
+      "prompt": "A wide row of mailboxes beside a small storage building, early twenty twenties commercial outskirts, early morning, pale cold light, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "14",
+      "prompt": "A medium view of a plain envelope and keys on a mailbox counter, early twenty twenties office objects, morning, soft overhead light, fifty millimeter lens and quiet film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "15",
+      "prompt": "A close detail of a key beside a blank invoice, early twenty twenties business materials, morning, narrow window light, macro lens and tactile film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "16",
+      "prompt": "A wide roof seen from a sidewalk after a storm, early twenty twenties neighborhood, late afternoon, fading cloud light, thirty five millimeter lens and film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "17",
+      "prompt": "A medium human figure measuring a roof edge with a tape measure, face turned away, early twenty twenties work clothes, afternoon, soft sun through clouds, fifty millimeter lens and natural film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "18",
+      "prompt": "A close detail of a clipboard, tape measure, and work glove on a porch rail, early twenty twenties tools, afternoon, gentle side light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "19",
+      "prompt": "A wide white work van parked outside a modest house, early twenty twenties vehicle and suburban street, Tuesday afternoon, warm muted sunlight, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "20",
+      "prompt": "A medium human figure walking around a house with a clipboard, face not readable, early twenty twenties contractor clothing, afternoon, soft directional daylight, fifty millimeter lens and restrained film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "21",
+      "prompt": "A close detail of a ladder foot on cracked driveway concrete, early twenty twenties construction scene, afternoon, low warm light, macro lens and tactile film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "22",
+      "prompt": "A wide roof with a small damaged section above a back room, early twenty twenties house, cloudy morning, cool natural light, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "23",
+      "prompt": "A medium view of a contractor on a roof seen from ground level, face not readable, early twenty twenties clothing, morning, diffused daylight, fifty millimeter lens and muted film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "24",
+      "prompt": "A close detail of a broken shingle held over a van hood, early twenty twenties roofing material, morning, soft side light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "25",
+      "prompt": "A wide house with a partial roof opening and a blue tarp, early twenty twenties residential street, Monday afternoon, warm hazy light, thirty five millimeter lens and quiet film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "26",
+      "prompt": "A medium view of two workers beside an open roof section, faces not readable, early twenty twenties workwear, afternoon, pale overcast light, fifty millimeter lens and natural film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "27",
+      "prompt": "A close detail of a blue tarp tied around a roof edge, early twenty twenties construction materials, afternoon, soft wind and cloud light, macro lens and tactile film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "28",
+      "prompt": "A wide empty street with several houses and a distant white van, early twenty twenties neighborhood, late afternoon, long muted shadows, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "29",
+      "prompt": "A medium view of a phone and estimate papers on a kitchen counter, early twenty twenties home objects, evening, warm lamp light, fifty millimeter lens and subdued film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "30",
+      "prompt": "A close detail of a hand circling dates on a paper calendar with no readable text, early twenty twenties stationery, evening, narrow lamp light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "31",
+      "prompt": "A wide storage unit aisle with stacked roofing bundles and a lone figure, early twenty twenties industrial setting, early morning, cool fluorescent light, thirty five millimeter lens and film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "32",
+      "prompt": "A medium view of fuel receipts and work gloves on a van dashboard, early twenty twenties vehicle interior, morning, pale windshield light, fifty millimeter lens and quiet film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "33",
+      "prompt": "A close detail of a wallet, fuel receipt, and house key, early twenty twenties everyday objects, morning, soft natural light, macro lens and tactile film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "34",
+      "prompt": "A wide county records room with folders arranged across a long table, early twenty twenties office architecture, late afternoon, muted window light, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "35",
+      "prompt": "A medium view of several homeowners placing papers on a table, faces not readable, early twenty twenties casual clothing, afternoon, diffused light, fifty millimeter lens and restrained film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "36",
+      "prompt": "A close detail of photographs, permits, and invoices overlapping on a table, early twenty twenties paper objects with no readable text, afternoon, soft side light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "37",
+      "prompt": "A wide driveway at dusk with a broken roof above the frame, early twenty twenties suburban house, dusk, blue ambient light and warm porch light, thirty five millimeter lens and still film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "38",
+      "prompt": "A medium human figure standing at a front door with a clipboard and keys, face not readable, early twenty twenties clothing, dusk, warm porch light, fifty millimeter lens and quiet film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "39",
+      "prompt": "A close detail of a house key passing from one hand to another, early twenty twenties metal and work glove, dusk, soft porch light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "40",
+      "prompt": "A wide driveway with a contractor and homeowner seen from behind beside a damaged house, early twenty twenties neighborhood, evening, fading natural light, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    }
+  ],
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "The county has a file on this man that is"
+    },
+    {
+      "image": 2,
+      "t": 11.2,
+      "line": "courtroom in November of two thousand twenty three and listened"
+    },
+    {
+      "image": 3,
+      "t": 22.8,
+      "line": "homeowners had paid for work that did not exist. Leon"
+    },
+    {
+      "image": 4,
+      "t": 33.9,
+      "line": "of blue tarps, bare plywood, and rooms where rain had"
+    },
+    {
+      "image": 5,
+      "t": 45.5,
+      "line": "slept in their living rooms for weeks. The county called"
+    },
+    {
+      "image": 6,
+      "t": 56.7,
+      "line": "first homeowner to speak. She had paid Leon twelve thousand,"
+    },
+    {
+      "image": 7,
+      "t": 68.3,
+      "line": "a tarp over the opening, and did not return for"
+    },
+    {
+      "image": 8,
+      "t": 79.4,
+      "line": "ceiling fan. She moved her dining table against the wall"
+    },
+    {
+      "image": 9,
+      "t": 91,
+      "line": "delivery date. He sent a photograph of a truck bed"
+    },
+    {
+      "image": 10,
+      "t": 102.2,
+      "line": "aged seventy two. They paid seventeen thousand, six hundred dollars"
+    },
+    {
+      "image": 11,
+      "t": 113.8,
+      "line": "half after showing them a permit with their address printed"
+    },
+    {
+      "image": 12,
+      "t": 124.9,
+      "line": "contractor who had withdrawn from the job two months earlier."
+    },
+    {
+      "image": 13,
+      "t": 136.5,
+      "line": "it did not show the name of the person standing"
+    },
+    {
+      "image": 14,
+      "t": 147.7,
+      "line": "business names. The names appeared on estimates, truck magnets, and"
+    },
+    {
+      "image": 15,
+      "t": 159.3,
+      "line": "work made the invoices look more believable. Leon measured a"
+    },
+    {
+      "image": 16,
+      "t": 170.5,
+      "line": "He could tell Grace that the underlayment was soft without"
+    },
+    {
+      "image": 17,
+      "t": 182,
+      "line": "learned the trade from an uncle in another county. He"
+    },
+    {
+      "image": 18,
+      "t": 193.2,
+      "line": "see from the ground. He also knew that homeowners felt"
+    },
+    {
+      "image": 19,
+      "t": 204.8,
+      "line": "sale. In July of two thousand eighteen, Leon began leaving"
+    },
+    {
+      "image": 20,
+      "t": 216,
+      "line": "a name, a county license number, and a promise to"
+    },
+    {
+      "image": 21,
+      "t": 227.6,
+      "line": "before. The first homeowner to call was Martha Bell. A"
+    },
+    {
+      "image": 22,
+      "t": 238.7,
+      "line": "a white van with a ladder tied to the roof."
+    },
+    {
+      "image": 23,
+      "t": 250.3,
+      "line": "house since her children were small. She showed Leon the"
+    },
+    {
+      "image": 24,
+      "t": 261.5,
+      "line": "down carrying a piece of broken shingle. He said the"
+    },
+    {
+      "image": 25,
+      "t": 273.1,
+      "line": "total was nine thousand, eight hundred and forty dollars. He"
+    },
+    {
+      "image": 26,
+      "t": 284.2,
+      "line": "the work could begin. Leon said the following Monday. On"
+    },
+    {
+      "image": 27,
+      "t": 295.8,
+      "line": "Leon placed a blue tarp over the open section and"
+    },
+    {
+      "image": 28,
+      "t": 307,
+      "line": "number on the estimate. Leon answered on the first call"
+    },
+    {
+      "image": 29,
+      "t": 318.6,
+      "line": "had changed the order of the jobs. On the third"
+    },
+    {
+      "image": 30,
+      "t": 329.7,
+      "line": "had already been divided. Three thousand dollars went to a"
+    },
+    {
+      "image": 31,
+      "t": 341.3,
+      "line": "deposit on the next job. The project in Martha's back"
+    },
+    {
+      "image": 32,
+      "t": 352.5,
+      "line": "moved through nearby streets. Leon arrived quickly after storms. He"
+    },
+    {
+      "image": 33,
+      "t": 364.1,
+      "line": "complained, he sent a photograph from another roof and gave"
+    },
+    {
+      "image": 34,
+      "t": 375.3,
+      "line": "second was visible on every estimate. The company address was"
+    },
+    {
+      "image": 35,
+      "t": 386.8,
+      "line": "of materials had reached the driveway. The county file grew"
+    },
+    {
+      "image": 36,
+      "t": 398,
+      "line": "had the permit copy. Martha had the first estimate and"
+    },
+    {
+      "image": 37,
+      "t": 409.6,
+      "line": "Leon never built a roof that could hold the story"
+    },
+    {
+      "image": 38,
+      "t": 420.8,
+      "line": "partial repair, and a reason to return. The deposits kept"
+    },
+    {
+      "image": 39,
+      "t": 432.4,
+      "line": "neighborhood, he wore a clean shirt and carried a clipboard."
+    },
+    {
+      "image": 40,
+      "t": 443.5,
+      "line": "dark. Leon stood in the driveway, looked up at the"
+    }
+  ]
+}

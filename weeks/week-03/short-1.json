@@ -1,0 +1,59 @@
+{
+  "week": 3,
+  "short": 1,
+  "title": "$84,000 For A Roof That Never Existed",
+  "script": "The county has a file on Leon Mercer that is four inches thick. It begins with a roof that was never fixed.\n\nLeon collected deposits from nineteen houses. Seven roofs were opened. None were finished. Grace Nolan paid twelve thousand, four hundred and eighty dollars for a roof repair that ended with three rows of shingles removed and a blue tarp tied over the opening.\n\nThe tarp came loose on the ninth night. Grace kept a towel beneath the ceiling fan and moved her dining table against the wall. Leon sent a photograph of a truck bed carrying bundles of shingles. The bundles were not Grace's.\n\nThe county file held photographs, permits, invoices, cancelled cheques, and notes from people who had slept in their living rooms for weeks. The total was eighty four thousand, two hundred and nineteen dollars. Seven roofs were opened. None were finished.",
+  "image_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "predicted_duration_seconds": 60.4,
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "The county has a file on Leon Mercer that is"
+    },
+    {
+      "image": 2,
+      "t": 7.4,
+      "line": "that was never fixed. Leon collected deposits from nineteen houses."
+    },
+    {
+      "image": 3,
+      "t": 14.9,
+      "line": "Nolan paid twelve thousand, four hundred and eighty dollars for"
+    },
+    {
+      "image": 4,
+      "t": 22.3,
+      "line": "of shingles removed and a blue tarp tied over the"
+    },
+    {
+      "image": 5,
+      "t": 30.2,
+      "line": "Grace kept a towel beneath the ceiling fan and moved"
+    },
+    {
+      "image": 6,
+      "t": 37.6,
+      "line": "a photograph of a truck bed carrying bundles of shingles."
+    },
+    {
+      "image": 7,
+      "t": 45.1,
+      "line": "held photographs, permits, invoices, cancelled cheques, and notes from people"
+    },
+    {
+      "image": 8,
+      "t": 52.5,
+      "line": "weeks. The total was eighty four thousand, two hundred and"
+    }
+  ]
+}
