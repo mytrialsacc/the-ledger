@@ -73,6 +73,43 @@ h2 { margin: 0; font-size: 20px; }
   color: var(--paper);
   background: var(--ink);
 }
+.site-menu { position: relative; z-index: 5; }
+.site-menu summary {
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  padding: 8px 10px;
+  color: var(--paper);
+  border: 1px solid rgba(242, 237, 225, .45);
+  border-radius: 3px;
+  cursor: pointer;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11.5px;
+}
+.site-menu summary::-webkit-details-marker { display: none; }
+.site-menu nav {
+  position: absolute;
+  top: calc(100% + 7px);
+  right: 0;
+  width: min(82vw, 250px);
+  padding: 7px;
+  background: var(--ink);
+  border: 1px solid rgba(242, 237, 225, .35);
+}
+.site-menu a {
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  padding: 10px 12px;
+  color: var(--paper);
+  text-decoration: none;
+  font-size: 13px;
+}
+.site-menu a:hover, .site-menu a:focus-visible { background: var(--green); }
+@media (min-width: 900px) {
+  .site-menu { position: fixed; top: 76px; left: 18px; }
+  .site-menu nav { left: 0; right: auto; width: 230px; }
+}
 .back { color: var(--paper); text-decoration: none; font-family: 'IBM Plex Mono', monospace; font-size: 12px; }
 .work main, .calendar main, .listing main { width: min(100%, 660px); margin: 0 auto; padding: 34px var(--pad) 0; }
 .work h1, .calendar h1, .listing h1 { margin-bottom: 10px; }
