@@ -41,6 +41,98 @@
       "pinned_comment": "This is a fictional composite built from recurring patterns in contractor fraud and home-repair scams. The people, figures, and institutions are not real."
     }
   },
+  "youtube_shorts": [
+    {
+      "short": 1,
+      "title": "Roofing Scam: Seven Roofs, None Finished",
+      "description": "Nineteen houses paid deposits. Seven roofs were opened. None were finished. This YouTube Short is a fictional composite about roofing scams, contractor fraud, and the damage left behind by partial repairs.\n\nThe full story is on The Ledger.\n\n#RoofingScam #ContractorFraud #HomeRepairScam",
+      "keywords": [
+        "roofing scam",
+        "contractor fraud",
+        "roof never finished",
+        "home repair scam",
+        "roofing scam short"
+      ],
+      "tags": "roofing scam, contractor fraud, roof never finished, home repair scam, roofing scam short, storm damage fraud, homeowner warning, The Ledger",
+      "hashtags": "#RoofingScam #ContractorFraud #HomeRepairScam",
+      "first_frame_text": "Seven roofs were opened. None were finished.",
+      "thumbnail": {
+        "overlay_text": "NONE FINISHED",
+        "prompt": "A vertical documentary thumbnail image of a damaged suburban roof under a loose blue tarp, ladder leaning against the house, a towel and bucket visible through a window, early twenty twenties neighborhood after rain, overcast daylight, fifty millimeter lens, warm muted desaturated color grade, strong central roof detail with safe space for overlay, no readable text, no logo, no watermark, no numbers, photorealistic, 9:16",
+        "filename": "the-ledger-week-03-youtube-short-01-thumbnail.png",
+        "alt_text": "A damaged roof under a blue tarp beside a ladder"
+      },
+      "upload": {
+        "category": "Education",
+        "audience": "Not made for kids",
+        "language": "English",
+        "format": "Vertical 9:16 Short",
+        "captions": "English captions on",
+        "filename": "the-ledger-week-03-youtube-short-01.mp4",
+        "thumbnail_note": "Verified account ho to YouTube Studio computer par 9:16 custom thumbnail upload karo; warna Short ka selected frame use karo."
+      }
+    },
+    {
+      "short": 2,
+      "title": "Contractor Fraud: The Permit Was Real",
+      "description": "The permit was real, but it belonged to another contractor. Leon copied the permit number onto his invoice and used five business names. This YouTube Short is a fictional composite about permit fraud and fake roofing companies.\n\nThe full story is on The Ledger.\n\n#ContractorFraud #PermitFraud #RoofingScam",
+      "keywords": [
+        "contractor fraud",
+        "permit fraud",
+        "fake roofing company",
+        "real permit scam",
+        "contractor fraud short"
+      ],
+      "tags": "contractor fraud, permit fraud, fake roofing company, real permit scam, contractor fraud short, home repair scam, roofing fraud, The Ledger",
+      "hashtags": "#ContractorFraud #PermitFraud #RoofingScam",
+      "first_frame_text": "The permit was real. The company was not.",
+      "thumbnail": {
+        "overlay_text": "REAL PERMIT",
+        "prompt": "A vertical documentary thumbnail image of a blank construction permit beside an invoice and a contractor clipboard on a kitchen counter, early twenty twenties home interior, late afternoon, hard side light, fifty millimeter lens, warm muted desaturated color grade, clear central paperwork with safe space for overlay, no readable text, no logo, no watermark, no numbers, photorealistic, 9:16",
+        "filename": "the-ledger-week-03-youtube-short-02-thumbnail.png",
+        "alt_text": "A construction permit beside an invoice and contractor clipboard"
+      },
+      "upload": {
+        "category": "Education",
+        "audience": "Not made for kids",
+        "language": "English",
+        "format": "Vertical 9:16 Short",
+        "captions": "English captions on",
+        "filename": "the-ledger-week-03-youtube-short-02.mp4",
+        "thumbnail_note": "Verified account ho to YouTube Studio computer par 9:16 custom thumbnail upload karo; warna Short ka selected frame use karo."
+      }
+    },
+    {
+      "short": 3,
+      "title": "The Fifty-Percent Deposit Scam",
+      "description": "The first repair made the invoice look real. The fifty-percent deposit paid for fuel, groceries, a storage unit, and the next house. This YouTube Short is a fictional composite about contractor deposit fraud.\n\nThe full story is on The Ledger.\n\n#ContractorFraud #HomeRepairScam #FinancialFraud",
+      "keywords": [
+        "contractor deposit scam",
+        "fifty percent deposit scam",
+        "home repair fraud",
+        "roofing contractor warning signs",
+        "contractor fraud short"
+      ],
+      "tags": "contractor deposit scam, fifty percent deposit scam, home repair fraud, roofing contractor warning signs, contractor fraud short, financial fraud, scam awareness, The Ledger",
+      "hashtags": "#ContractorFraud #HomeRepairScam #FinancialFraud",
+      "first_frame_text": "The first repair made the invoice look real.",
+      "thumbnail": {
+        "overlay_text": "THE FIRST DEPOSIT",
+        "prompt": "A vertical documentary thumbnail image of a contractor clipboard beside a partial roof repair, loose shingles, and a sealed envelope on a porch step, early twenty twenties suburban house, cloudy afternoon, fifty millimeter lens, warm muted desaturated color grade, strong central composition with clear safe space, no readable text, no logo, no watermark, no numbers, photorealistic, 9:16",
+        "filename": "the-ledger-week-03-youtube-short-03-thumbnail.png",
+        "alt_text": "A contractor clipboard and loose shingles beside a partial roof repair"
+      },
+      "upload": {
+        "category": "Education",
+        "audience": "Not made for kids",
+        "language": "English",
+        "format": "Vertical 9:16 Short",
+        "captions": "English captions on",
+        "filename": "the-ledger-week-03-youtube-short-03.mp4",
+        "thumbnail_note": "Verified account ho to YouTube Studio computer par 9:16 custom thumbnail upload karo; warna Short ka selected frame use karo."
+      }
+    }
+  ],
   "tiktok": [
     {
       "short": 1,
@@ -121,6 +213,14 @@
     {
       "label": "TikTok ki official Creative Center guidance",
       "url": "https://ads.tiktok.com/help/article/creative-center?lang=en"
+    },
+    {
+      "label": "YouTube Shorts thumbnail ki official guidance",
+      "url": "https://support.google.com/youtube/answer/72431"
+    },
+    {
+      "label": "YouTube tags ki official guidance",
+      "url": "https://support.google.com/youtube/answer/146402?hl=en"
     }
   ]
 }

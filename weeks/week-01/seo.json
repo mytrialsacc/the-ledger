@@ -41,6 +41,98 @@
       "pinned_comment": "This is a fictional composite built from recurring patterns in financial fraud. The people, figures, and institutions are not real."
     }
   },
+  "youtube_shorts": [
+    {
+      "short": 1,
+      "title": "Church Treasurer Fraud: The Deposit Slip Didn't Match",
+      "description": "The account had been closed nine months earlier, but Dolores still had nine years of receipts. This YouTube Short is a fictional composite about church treasurer fraud, deposit slip fraud, and the trust that made the scheme possible.\n\nThe full story is on The Ledger.\n\n#ChurchFraud #FinancialFraud #MoneyCrime",
+      "keywords": [
+        "church treasurer fraud",
+        "deposit slip fraud",
+        "church financial fraud",
+        "financial fraud short",
+        "money crime"
+      ],
+      "tags": "church treasurer fraud, deposit slip fraud, church financial fraud, financial fraud short, money crime, trusted insider fraud, church scam, The Ledger",
+      "hashtags": "#ChurchFraud #FinancialFraud #MoneyCrime",
+      "first_frame_text": "The account had been closed nine months earlier.",
+      "thumbnail": {
+        "overlay_text": "THE SLIP DIDN'T MATCH",
+        "prompt": "A vertical documentary thumbnail image of a blue paper envelope beside mismatched blank deposit slips on a bank counter, late nineteen nineties banking interior, morning, cool window light, fifty millimeter lens, warm muted desaturated color grade, clear central papers with safe space for overlay, no readable text, no logo, no watermark, no numbers, photorealistic, 9:16",
+        "filename": "the-ledger-week-01-youtube-short-01-thumbnail.png",
+        "alt_text": "A blue envelope and mismatched deposit slips on a bank counter"
+      },
+      "upload": {
+        "category": "Education",
+        "audience": "Not made for kids",
+        "language": "English",
+        "format": "Vertical 9:16 Short",
+        "captions": "English captions on",
+        "filename": "the-ledger-week-01-youtube-short-01.mp4",
+        "thumbnail_note": "Verified account ho to YouTube Studio computer par 9:16 custom thumbnail upload karo; warna Short ka selected frame use karo."
+      }
+    },
+    {
+      "short": 2,
+      "title": "How A Trusted Treasurer Hid Two Ledgers",
+      "description": "A trusted church treasurer kept two records moving at the same time. New deposits covered old withdrawals while the council saw only a clean summary. This YouTube Short is a fictional composite about insider financial fraud.\n\nThe full story is on The Ledger.\n\n#FinancialFraud #ChurchFraud #WhiteCollarCrime",
+      "keywords": [
+        "trusted treasurer fraud",
+        "two ledgers fraud",
+        "church money scam",
+        "insider financial fraud",
+        "white collar crime short"
+      ],
+      "tags": "trusted treasurer fraud, two ledgers fraud, church money scam, insider financial fraud, white collar crime short, church embezzlement, The Ledger",
+      "hashtags": "#FinancialFraud #ChurchFraud #WhiteCollarCrime",
+      "first_frame_text": "Harold kept two records for the church deposits.",
+      "thumbnail": {
+        "overlay_text": "TWO RECORDS",
+        "prompt": "A vertical documentary thumbnail image of two closed ledgers stacked on a church office desk beside a plain calculator, late nineteen nineties office materials, evening, warm desk lamp with deep shadows, fifty millimeter lens, warm muted desaturated color grade, strong central composition with safe space for overlay, no readable text, no logo, no watermark, no numbers, photorealistic, 9:16",
+        "filename": "the-ledger-week-01-youtube-short-02-thumbnail.png",
+        "alt_text": "Two closed ledgers stacked on a church office desk"
+      },
+      "upload": {
+        "category": "Education",
+        "audience": "Not made for kids",
+        "language": "English",
+        "format": "Vertical 9:16 Short",
+        "captions": "English captions on",
+        "filename": "the-ledger-week-01-youtube-short-02.mp4",
+        "thumbnail_note": "Verified account ho to YouTube Studio computer par 9:16 custom thumbnail upload karo; warna Short ka selected frame use karo."
+      }
+    },
+    {
+      "short": 3,
+      "title": "The Bank Asked For The Original Receipts",
+      "description": "Dolores kept every receipt in a blue envelope. Nine years later, the bank asked for the originals and the story began to come apart. This YouTube Short is a fictional composite about church financial fraud.\n\nThe full story is on The Ledger.\n\n#ChurchFraud #ScamAwareness #FinancialFraud",
+      "keywords": [
+        "church fraud story",
+        "original receipts fraud",
+        "financial fraud evidence",
+        "church scam awareness",
+        "fraud documentary short"
+      ],
+      "tags": "church fraud story, original receipts fraud, financial fraud evidence, church scam awareness, fraud documentary short, money crime, The Ledger",
+      "hashtags": "#ChurchFraud #ScamAwareness #FinancialFraud",
+      "first_frame_text": "The bank asked for the original slips.",
+      "thumbnail": {
+        "overlay_text": "THE ORIGINALS",
+        "prompt": "A vertical documentary thumbnail image of an open blue envelope with a few blank receipts on a kitchen table, early twenty twenties home interior, morning, soft side light through a window, fifty millimeter lens, warm muted desaturated color grade, clear central envelope with safe space for overlay, no readable text, no logo, no watermark, no numbers, photorealistic, 9:16",
+        "filename": "the-ledger-week-01-youtube-short-03-thumbnail.png",
+        "alt_text": "An open blue envelope with receipts on a kitchen table"
+      },
+      "upload": {
+        "category": "Education",
+        "audience": "Not made for kids",
+        "language": "English",
+        "format": "Vertical 9:16 Short",
+        "captions": "English captions on",
+        "filename": "the-ledger-week-01-youtube-short-03.mp4",
+        "thumbnail_note": "Verified account ho to YouTube Studio computer par 9:16 custom thumbnail upload karo; warna Short ka selected frame use karo."
+      }
+    }
+  ],
   "tiktok": [
     {
       "short": 1,
@@ -121,6 +213,14 @@
     {
       "label": "TikTok ki official Creative Center guidance",
       "url": "https://ads.tiktok.com/help/article/creative-center?lang=en"
+    },
+    {
+      "label": "YouTube Shorts thumbnail ki official guidance",
+      "url": "https://support.google.com/youtube/answer/72431"
+    },
+    {
+      "label": "YouTube tags ki official guidance",
+      "url": "https://support.google.com/youtube/answer/146402?hl=en"
     }
   ]
 }

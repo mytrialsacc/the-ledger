@@ -41,6 +41,98 @@
       "pinned_comment": "This is a fictional composite built from recurring patterns in romance scams and elder financial abuse. The people, figures, and institutions are not real."
     }
   },
+  "youtube_shorts": [
+    {
+      "short": 1,
+      "title": "Romance Scam Warning: He Never Asked For Money",
+      "description": "He never asked her for money. Not once. That was the whole design. This YouTube Short is a fictional composite about an online romance scam, emotional trust, and the small delays that turned into payments.\n\nThe full story is on The Ledger.\n\n#RomanceScam #ScamAwareness #FinancialFraud",
+      "keywords": [
+        "romance scam warning",
+        "online romance scam",
+        "elder romance scam",
+        "romance scam short",
+        "scam awareness"
+      ],
+      "tags": "romance scam warning, online romance scam, elder romance scam, romance scam short, scam awareness, relationship fraud, financial fraud, The Ledger",
+      "hashtags": "#RomanceScam #ScamAwareness #FinancialFraud",
+      "first_frame_text": "He never asked her for money. Not once.",
+      "thumbnail": {
+        "overlay_text": "NOT ONCE",
+        "prompt": "A vertical documentary thumbnail image of an older woman's hand beside an open laptop and a blank railway station photograph on a kitchen table, early twenty tens home interior, soft morning window light, fifty millimeter lens, warm muted desaturated color grade, strong central object with generous safe space for overlay, no readable text, no logo, no watermark, no numbers, photorealistic, 9:16",
+        "filename": "the-ledger-week-02-youtube-short-01-thumbnail.png",
+        "alt_text": "An older woman's hand beside a laptop and railway station photograph"
+      },
+      "upload": {
+        "category": "Education",
+        "audience": "Not made for kids",
+        "language": "English",
+        "format": "Vertical 9:16 Short",
+        "captions": "English captions on",
+        "filename": "the-ledger-week-02-youtube-short-01.mp4",
+        "thumbnail_note": "Verified account ho to YouTube Studio computer par 9:16 custom thumbnail upload karo; warna Short ka selected frame use karo."
+      }
+    },
+    {
+      "short": 2,
+      "title": "The Romance Scam Photo Was Eleven Years Old",
+      "description": "The face in the romance scam came through one old photograph. Three years later, Evelyn learned it had been copied from a public travel archive. This YouTube Short is a fictional composite about catfishing and fake online identities.\n\nThe full story is on The Ledger.\n\n#RomanceScam #Catfishing #ScamAwareness",
+      "keywords": [
+        "romance scam photo",
+        "catfishing warning",
+        "old photograph scam",
+        "fake online identity",
+        "romance scam short"
+      ],
+      "tags": "romance scam photo, catfishing warning, old photograph scam, fake online identity, romance scam short, online dating scam, scam awareness, The Ledger",
+      "hashtags": "#RomanceScam #Catfishing #ScamAwareness",
+      "first_frame_text": "That photograph was eleven years old.",
+      "thumbnail": {
+        "overlay_text": "THE PHOTO WAS OLD",
+        "prompt": "A vertical documentary thumbnail image of a printed railway platform photograph beside an open laptop and old train tickets on a desk, early twenty tens home setting, evening, cool screen glow and soft lamp light, fifty millimeter lens, warm muted desaturated color grade, clear central photograph with safe space for overlay, no readable text, no logo, no watermark, no numbers, photorealistic, 9:16",
+        "filename": "the-ledger-week-02-youtube-short-02-thumbnail.png",
+        "alt_text": "A railway platform photograph beside a laptop and old train tickets"
+      },
+      "upload": {
+        "category": "Education",
+        "audience": "Not made for kids",
+        "language": "English",
+        "format": "Vertical 9:16 Short",
+        "captions": "English captions on",
+        "filename": "the-ledger-week-02-youtube-short-02.mp4",
+        "thumbnail_note": "Verified account ho to YouTube Studio computer par 9:16 custom thumbnail upload karo; warna Short ka selected frame use karo."
+      }
+    },
+    {
+      "short": 3,
+      "title": "The Bank Called Three Times About The Romance Scam",
+      "description": "The bank called three times as Evelyn's savings became smaller. Each payment still had a private explanation. This YouTube Short is a fictional composite about romance scam warning signs and elder financial abuse.\n\nThe full story is on The Ledger.\n\n#RomanceScam #FinancialFraud #ElderAbuse",
+      "keywords": [
+        "romance scam warning signs",
+        "bank warning romance scam",
+        "elder financial abuse",
+        "small payment scam",
+        "romance scam short"
+      ],
+      "tags": "romance scam warning signs, bank warning romance scam, elder financial abuse, small payment scam, romance scam short, financial fraud, scam awareness, The Ledger",
+      "hashtags": "#RomanceScam #FinancialFraud #ElderAbuse",
+      "first_frame_text": "Her bank called three times.",
+      "thumbnail": {
+        "overlay_text": "THE BANK CALLED",
+        "prompt": "A vertical documentary thumbnail image of a telephone beside a blank bank statement and a closed savings folder on a modest kitchen table, early twenty tens home interior, late afternoon, hard side light through blinds, fifty millimeter lens, warm muted desaturated color grade, strong central composition with clear safe space, no readable text, no logo, no watermark, no numbers, photorealistic, 9:16",
+        "filename": "the-ledger-week-02-youtube-short-03-thumbnail.png",
+        "alt_text": "A telephone beside a bank statement and closed savings folder"
+      },
+      "upload": {
+        "category": "Education",
+        "audience": "Not made for kids",
+        "language": "English",
+        "format": "Vertical 9:16 Short",
+        "captions": "English captions on",
+        "filename": "the-ledger-week-02-youtube-short-03.mp4",
+        "thumbnail_note": "Verified account ho to YouTube Studio computer par 9:16 custom thumbnail upload karo; warna Short ka selected frame use karo."
+      }
+    }
+  ],
   "tiktok": [
     {
       "short": 1,
@@ -121,6 +213,14 @@
     {
       "label": "TikTok ki official Creative Center guidance",
       "url": "https://ads.tiktok.com/help/article/creative-center?lang=en"
+    },
+    {
+      "label": "YouTube Shorts thumbnail ki official guidance",
+      "url": "https://support.google.com/youtube/answer/72431"
+    },
+    {
+      "label": "YouTube tags ki official guidance",
+      "url": "https://support.google.com/youtube/answer/146402?hl=en"
     }
   ]
 }
