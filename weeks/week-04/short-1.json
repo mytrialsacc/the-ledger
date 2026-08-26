@@ -1,0 +1,59 @@
+{
+  "week": 4,
+  "short": 1,
+  "title": "The Returns Never Dropped. Not Once. In Six Years.",
+  "script": "The returns never dropped. Not once. In six years, every statement showed another payment.\n\nNora Bell put eighteen thousand, four hundred dollars into Calvin Reed's arrangement after a barber told her that Calvin understood small businesses. At the end of the first month, Nora received a return of four hundred and twelve dollars.\n\nThe money did not come from a business or an investment. It came from a deposit made by somebody who had heard Calvin's name at the same barber shop.\n\nNora's balance reached twenty four thousand, nine hundred and sixteen dollars. She left the money in place because no payment had been late. Calvin sent statements on the same day every month, using the same paper and the same envelope.\n\nThe returns stayed smooth because Calvin calculated them from the next deposit. The month the deposits slowed was the month the statements stopped.",
+  "image_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "predicted_duration_seconds": 60,
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "The returns never dropped. Not once. In six years, every"
+    },
+    {
+      "image": 2,
+      "t": 7.4,
+      "line": "thousand, four hundred dollars into Calvin Reed's arrangement after a"
+    },
+    {
+      "image": 3,
+      "t": 14.9,
+      "line": "At the end of the first month, Nora received a"
+    },
+    {
+      "image": 4,
+      "t": 22.3,
+      "line": "money did not come from a business or an investment."
+    },
+    {
+      "image": 5,
+      "t": 29.8,
+      "line": "who had heard Calvin's name at the same barber shop."
+    },
+    {
+      "image": 6,
+      "t": 37.2,
+      "line": "and sixteen dollars. She left the money in place because"
+    },
+    {
+      "image": 7,
+      "t": 44.7,
+      "line": "on the same day every month, using the same paper"
+    },
+    {
+      "image": 8,
+      "t": 52.1,
+      "line": "because Calvin calculated them from the next deposit. The month"
+    }
+  ]
+}

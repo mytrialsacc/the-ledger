@@ -1,0 +1,374 @@
+{
+  "week": 4,
+  "title": "Everyone In Town Was Invested",
+  "publish_date": "21 September 2026",
+  "sub_type": "Ponzi / Community Collapse",
+  "structure": "Parallel timelines, victim and operator",
+  "script": "By the sixth year, there were more people in that town invested with him than there were people who were not.\n\nOn a Monday in March of two thousand sixteen, Nora Bell carried eighteen thousand, four hundred dollars into a barber shop on Main Street. She had sold her husband's pickup after he died, and she wanted the money somewhere it could earn more than the bank was paying. The barber, Eddie, told Nora that Calvin Reed handled private accounts for people he knew.\n\nThat same Monday, Calvin opened a spreadsheet in a rented office above a hardware store. The first column held names. The second held amounts. The third held the date each person expected a return. Nora was one of four new names. Calvin moved her money into an account that already contained deposits from eleven other people.\n\nNora received her first statement at the end of the month. It showed a return of four hundred and twelve dollars. She had not asked for the money. The statement arrived in a cream envelope with a neat address label, and Nora placed it beside her late husband's insurance papers.\n\nCalvin recorded the return as a payment to Nora. The money did not come from a business or an investment. It came from a deposit made by a retired school custodian named Frank. Calvin marked Nora's account as current and used the same balance to prepare the next statement.\n\nBy June, Eddie's barber shop had become the place where people mentioned Calvin without lowering their voices. Eddie had known Calvin since high school. He said Calvin understood land, equipment, and the kind of small businesses that grew slowly. Eddie never called it a fund. He called it an arrangement.\n\nIn the second year, Nora told her sister that she had found a careful man. Her sister lived in another town and had never met Calvin. Nora showed her the statements, the cream envelopes, and a photograph of Calvin standing beside a brick building. The photograph had been taken outside the rented office.\n\nThat summer, Calvin paid Nora's return from money deposited by a married couple who had heard about him at Eddie's shop. Their names were entered on the spreadsheet before Calvin sent Nora's envelope. The sequence was invisible to Nora because her statement showed only her balance and her return.\n\nBy the third year, Calvin had moved into a larger office near the courthouse. He put a dark wooden desk near the window and kept a bowl of wrapped mints beside the visitor chairs. The office looked permanent. The spreadsheet had grown to three hundred and twelve names.\n\nNora's balance reached twenty four thousand, nine hundred and sixteen dollars. She did not withdraw it. Calvin told her that leaving the return inside the account allowed it to compound. Nora agreed because the number rose every month and no payment had been late.\n\nCalvin needed Nora to leave the money in place. He sent statements on the same day each month. He used the same paper, the same envelope, and the same small difference in the balance. When somebody asked for a withdrawal, Calvin paid from the newest deposit and placed the request at the bottom of the list.\n\nIn the fourth year, a local restaurant owner brought Calvin forty two thousand dollars after selling his second location. Calvin sent a statement to Nora that afternoon. It showed a return of five hundred and eight dollars. The restaurant owner's deposit paid the amount.\n\nIn the fifth year, the town began using one phrase for Calvin. People said he had never missed. They meant the returns. They did not mean the statements, the accounts, or the money itself. Nora repeated the phrase to Claire when Claire asked how the account was doing.\n\nCalvin had begun borrowing time. The spreadsheet showed a total balance of one million, four hundred and eighty six thousand, two hundred and twenty dollars. The real accounts held less than two hundred thousand. The difference was a promise written beside each name.\n\nThe first withdrawal request arrived in April of the sixth year. Frank needed money for a medical procedure and asked Calvin to send twelve thousand dollars. Calvin opened the spreadsheet, moved Frank's name to the top, and searched for a deposit large enough to cover him.\n\nThere was no large deposit that week. Calvin sold the sedan and sent Frank the money. He told Frank the transfer had come from a matured position. Frank thanked him and told two neighbours that Calvin had handled the request quickly.\n\nIn May, five more people asked for withdrawals. One needed to close a shop. Another had received a tax notice. Nora wanted to help Claire with a house deposit.\n\nHe stopped sending statements in June. The printer had failed, he said. The replacement was delayed. Nora waited two weeks, then drove to the office near the courthouse. The glass doors were locked. A paper notice on the door belonged to the landlord.\n\nEddie closed the barber shop early that afternoon. He called Calvin from the back room and got a message saying the number was not in service. Eddie opened the drawer beneath the register and found a stack of cream envelopes with no money inside.\n\nThe county investigator found three accounts, two rented offices, and one spreadsheet saved to a computer in Calvin's apartment. The spreadsheet held three hundred and twelve names. One hundred and eighty six people had received some returns. Forty nine had received all their deposits back. The rest had paper balances.\n\nNora's paper balance was thirty one thousand, seven hundred and forty dollars. The real account connected to her name held nothing. Her first return had been paid by Frank. Frank's withdrawal had been paid from the sale of Calvin's car.\n\nThe town had not invested in one business. It had invested in a chain of belief that moved through familiar places. The barber shop gave the first introduction. The office gave the arrangement a room. The statements gave each person a number that looked like evidence.\n\nThree details were present from the beginning. No statement named the place where the money was invested. No return arrived with a business record behind it. Every person heard about Calvin from somebody they already trusted.\n\nThe returns never dropped because Calvin did not calculate returns from performance. He calculated them from the next deposit. The month the deposits slowed was the month the statements stopped.",
+  "predicted_duration_seconds": 446.4,
+  "negative_prompt": "cartoon, illustration, CGI, glossy digital art, visible face, readable text, signage, logo, watermark, numbers, oversaturated colors, harsh flash, studio lighting, distorted anatomy, extra limbs",
+  "prompts": [
+    {
+      "image": "01",
+      "prompt": "A wide main street in a small American town with a barber shop and hardware store, early twenty tens storefronts, Monday morning, soft overcast daylight, thirty five millimeter documentary lens and film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "02",
+      "prompt": "A medium older woman carrying a plain envelope toward a neighborhood barber shop, early twenty tens clothing and brick storefront, morning, gentle window light, fifty millimeter lens and restrained film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "03",
+      "prompt": "A close detail of a worn envelope and car keys on a barber shop counter, early twenty tens objects, morning, soft side light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "04",
+      "prompt": "A wide rented office above a hardware store with one lit window, early twenty tens commercial building, late afternoon, muted natural light, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "05",
+      "prompt": "A medium view of a human figure seated at a desk with a spreadsheet turned away, face not readable, early twenty tens office clothing, afternoon, pale window light, fifty millimeter lens and quiet film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "06",
+      "prompt": "A close detail of a calculator beside blank account papers, early twenty tens office objects, afternoon, warm desk lamp light, macro lens and tactile film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "07",
+      "prompt": "A wide barber shop interior with several waiting chairs and indistinct customers, early twenty tens furnishings, midday, soft window light, thirty five millimeter lens and observational film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "08",
+      "prompt": "A medium view of a barber speaking with an older customer while scissors rest on a counter, faces not readable, early twenty tens clothing, midday, natural side light, fifty millimeter lens and muted film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "09",
+      "prompt": "A close detail of scissors, comb, and a folded paper on a barber station, early twenty tens objects, midday, crisp window light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "10",
+      "prompt": "A wide modest home office with a cream envelope beside framed family photographs, early twenty tens domestic setting, evening, warm lamp light, thirty five millimeter lens and quiet film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "11",
+      "prompt": "A medium older woman placing a statement envelope beside old insurance papers, early twenty tens cardigan and wooden table, evening, soft practical light, fifty millimeter lens and restrained film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "12",
+      "prompt": "A close detail of a cream envelope and reading glasses on a table, early twenty tens paper objects without readable text, evening, narrow lamp light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "13",
+      "prompt": "A wide brick office building near a courthouse, early twenty tens small town architecture, morning, pale winter daylight, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "14",
+      "prompt": "A medium human figure arranging visitor chairs around a dark wooden desk, face not readable, early twenty tens office clothing, morning, soft window light, fifty millimeter lens and natural film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "15",
+      "prompt": "A close detail of wrapped mints in a glass bowl beside a desk blotter, early twenty tens office objects, morning, warm side light, macro lens and tactile film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "16",
+      "prompt": "A wide office waiting room with a dark desk near a window, early twenty tens interior, late afternoon, amber daylight, thirty five millimeter lens and still film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "17",
+      "prompt": "A medium view of several indistinct people seated around a lunch table, early twenty tens casual clothing, afternoon, soft window light, fifty millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "18",
+      "prompt": "A close detail of paper cups and plain envelopes on a holiday lunch table, early twenty tens objects, afternoon, gentle warm light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "19",
+      "prompt": "A wide town street with a restaurant, barber shop, and small office, early twenty tens community setting, early morning, cool natural light, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "20",
+      "prompt": "A medium human figure handing a plain folder across a restaurant table, face not readable, early twenty tens clothing, morning, soft side light, fifty millimeter lens and quiet film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "21",
+      "prompt": "A close detail of a restaurant receipt and car keys beside a blank folder, early twenty tens paper objects, morning, muted window light, macro lens and tactile film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "22",
+      "prompt": "A wide used sedan parked beside a glass office building, early twenty tens vehicle and architecture, late afternoon, long muted shadows, thirty five millimeter lens and film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "23",
+      "prompt": "A medium view of a human figure walking toward glass office doors with a folder, face not readable, early twenty tens clothing, afternoon, reflected daylight, fifty millimeter lens and restrained film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "24",
+      "prompt": "A close detail of a hand holding a key near a glass office door, early twenty tens metal and glass, afternoon, soft reflected light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "25",
+      "prompt": "A wide office desk with a silent telephone and unopened envelopes, early twenty tens office setting, morning, grey window light, thirty five millimeter lens and quiet documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "26",
+      "prompt": "A medium view of an older woman looking at a silent phone on a kitchen table, face turned away, early twenty tens home interior, morning, pale window light, fifty millimeter lens and subdued film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "27",
+      "prompt": "A close detail of a phone handset beside an empty envelope, early twenty tens household objects, morning, narrow side light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "28",
+      "prompt": "A wide locked glass office entrance with a small paper notice, early twenty tens commercial building, afternoon, flat cloud light, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "29",
+      "prompt": "A medium human figure standing outside a closed barber shop, face not readable, early twenty tens clothing, late afternoon, cool fading light, fifty millimeter lens and quiet film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "30",
+      "prompt": "A close detail of cream envelopes stacked in a wooden cash drawer, early twenty tens barber shop objects, afternoon, soft overhead light, macro lens and tactile film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "31",
+      "prompt": "A wide investigator's table covered with folders and a computer, early twenty twenties office setting, morning, cool window light, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "32",
+      "prompt": "A medium view of a spreadsheet on a monitor with all text turned away, early twenty twenties technology, morning, muted screen light, fifty millimeter lens and restrained film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "33",
+      "prompt": "A close detail of a handwritten list beside a computer keyboard, early twenty twenties office objects without readable text, morning, soft desk light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "34",
+      "prompt": "A wide small town intersection with people moving between familiar shops, early twenty twenties community setting, late afternoon, warm hazy light, thirty five millimeter lens and observational film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "35",
+      "prompt": "A medium human figure passing an envelope across a barber shop counter, faces not readable, early twenty twenties clothing, afternoon, natural side light, fifty millimeter lens and quiet film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "36",
+      "prompt": "A close detail of an envelope beside a barber comb and office key, early twenty twenties objects, afternoon, warm window light, macro lens and tactile film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "37",
+      "prompt": "A wide empty office after closing with a desk and silent phone, early twenty twenties interior, evening, blue window light and one warm lamp, thirty five millimeter lens and still film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "38",
+      "prompt": "A medium view of a closed ledger beside a calculator and blank statements, early twenty twenties office objects, evening, soft amber lamp light, fifty millimeter lens and subdued film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "39",
+      "prompt": "A close detail of a final unopened cream envelope on a dark desk, early twenty twenties paper object, night, small pool of warm light, macro lens and fine grain film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    },
+    {
+      "image": "40",
+      "prompt": "A wide quiet town street after the shops have closed, early twenty twenties setting, night, scattered warm storefront light, thirty five millimeter lens and documentary film character, warm muted desaturated colour grade, 35mm film photography, shallow depth of field, natural light, muted desaturated color grade, fine grain, no text, no watermark, photorealistic"
+    }
+  ],
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "By the sixth year, there were more people in that"
+    },
+    {
+      "image": 2,
+      "t": 10.8,
+      "line": "of two thousand sixteen, Nora Bell carried eighteen thousand, four"
+    },
+    {
+      "image": 3,
+      "t": 21.9,
+      "line": "died, and she wanted the money somewhere it could earn"
+    },
+    {
+      "image": 4,
+      "t": 33.1,
+      "line": "for people he knew. That same Monday, Calvin opened a"
+    },
+    {
+      "image": 5,
+      "t": 44.3,
+      "line": "amounts. The third held the date each person expected a"
+    },
+    {
+      "image": 6,
+      "t": 55.4,
+      "line": "contained deposits from eleven other people. Nora received her first"
+    },
+    {
+      "image": 7,
+      "t": 66.6,
+      "line": "She had not asked for the money. The statement arrived"
+    },
+    {
+      "image": 8,
+      "t": 77.8,
+      "line": "insurance papers. Calvin recorded the return as a payment to"
+    },
+    {
+      "image": 9,
+      "t": 89,
+      "line": "made by a retired school custodian named Frank. Calvin marked"
+    },
+    {
+      "image": 10,
+      "t": 100.1,
+      "line": "barber shop had become the place where people mentioned Calvin"
+    },
+    {
+      "image": 11,
+      "t": 111.3,
+      "line": "and the kind of small businesses that grew slowly. Eddie"
+    },
+    {
+      "image": 12,
+      "t": 122.5,
+      "line": "sister that she had found a careful man. Her sister"
+    },
+    {
+      "image": 13,
+      "t": 133.6,
+      "line": "and a photograph of Calvin standing beside a brick building."
+    },
+    {
+      "image": 14,
+      "t": 144.8,
+      "line": "deposited by a married couple who had heard about him"
+    },
+    {
+      "image": 15,
+      "t": 156,
+      "line": "was invisible to Nora because her statement showed only her"
+    },
+    {
+      "image": 16,
+      "t": 167.1,
+      "line": "courthouse. He put a dark wooden desk near the window"
+    },
+    {
+      "image": 17,
+      "t": 178.3,
+      "line": "had grown to three hundred and twelve names. Nora's balance"
+    },
+    {
+      "image": 18,
+      "t": 189.5,
+      "line": "that leaving the return inside the account allowed it to"
+    },
+    {
+      "image": 19,
+      "t": 200.7,
+      "line": "Nora to leave the money in place. He sent statements"
+    },
+    {
+      "image": 20,
+      "t": 211.8,
+      "line": "small difference in the balance. When somebody asked for a"
+    },
+    {
+      "image": 21,
+      "t": 223,
+      "line": "In the fourth year, a local restaurant owner brought Calvin"
+    },
+    {
+      "image": 22,
+      "t": 234.2,
+      "line": "It showed a return of five hundred and eight dollars."
+    },
+    {
+      "image": 23,
+      "t": 245.3,
+      "line": "for Calvin. People said he had never missed. They meant"
+    },
+    {
+      "image": 24,
+      "t": 256.5,
+      "line": "phrase to Claire when Claire asked how the account was"
+    },
+    {
+      "image": 25,
+      "t": 267.7,
+      "line": "and eighty six thousand, two hundred and twenty dollars. The"
+    },
+    {
+      "image": 26,
+      "t": 278.9,
+      "line": "The first withdrawal request arrived in April of the sixth"
+    },
+    {
+      "image": 27,
+      "t": 290,
+      "line": "opened the spreadsheet, moved Frank's name to the top, and"
+    },
+    {
+      "image": 28,
+      "t": 301.2,
+      "line": "sold the sedan and sent Frank the money. He told"
+    },
+    {
+      "image": 29,
+      "t": 312.4,
+      "line": "Calvin had handled the request quickly. In May, five more"
+    },
+    {
+      "image": 30,
+      "t": 323.5,
+      "line": "wanted to help Claire with a house deposit. He stopped"
+    },
+    {
+      "image": 31,
+      "t": 334.7,
+      "line": "weeks, then drove to the office near the courthouse. The"
+    },
+    {
+      "image": 32,
+      "t": 345.9,
+      "line": "barber shop early that afternoon. He called Calvin from the"
+    },
+    {
+      "image": 33,
+      "t": 357.1,
+      "line": "beneath the register and found a stack of cream envelopes"
+    },
+    {
+      "image": 34,
+      "t": 368.2,
+      "line": "to a computer in Calvin's apartment. The spreadsheet held three"
+    },
+    {
+      "image": 35,
+      "t": 379.4,
+      "line": "received all their deposits back. The rest had paper balances."
+    },
+    {
+      "image": 36,
+      "t": 390.6,
+      "line": "her name held nothing. Her first return had been paid"
+    },
+    {
+      "image": 37,
+      "t": 401.7,
+      "line": "invested in one business. It had invested in a chain"
+    },
+    {
+      "image": 38,
+      "t": 412.9,
+      "line": "the arrangement a room. The statements gave each person a"
+    },
+    {
+      "image": 39,
+      "t": 424.1,
+      "line": "where the money was invested. No return arrived with a"
+    },
+    {
+      "image": 40,
+      "t": 435.3,
+      "line": "dropped because Calvin did not calculate returns from performance. He"
+    }
+  ]
+}

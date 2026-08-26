@@ -1,0 +1,59 @@
+{
+  "week": 4,
+  "short": 2,
+  "title": "How One Barber Shop Recruited An Entire Town",
+  "script": "Eddie's barber shop did not sell investments. It sold haircuts. The arrangement entered through ordinary conversation.\n\nA customer mentioned a return while waiting for a haircut. Eddie said Calvin Reed handled private accounts for people he knew. He said Calvin was selective. Calvin said he was nearly full.\n\nThe words made the arrangement sound smaller than it was. People heard the name from somebody they already trusted, then met Calvin in an office near the courthouse. The office had a dark wooden desk, visitor chairs, and a bowl of wrapped mints.\n\nBy the third year, the spreadsheet held three hundred and twelve names. The barber shop gave the first introduction. The office gave the arrangement a room. The statements gave each person a number that looked like evidence.\n\nMost of the town never met Calvin. They met Eddie first.",
+  "image_refs": [
+    7,
+    8,
+    9,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "predicted_duration_seconds": 57.5,
+  "timings": [
+    {
+      "image": 1,
+      "t": 0,
+      "line": "Eddie's barber shop did not sell investments. It sold haircuts."
+    },
+    {
+      "image": 2,
+      "t": 7,
+      "line": "customer mentioned a return while waiting for a haircut. Eddie"
+    },
+    {
+      "image": 3,
+      "t": 14.1,
+      "line": "people he knew. He said Calvin was selective. Calvin said"
+    },
+    {
+      "image": 4,
+      "t": 21.5,
+      "line": "arrangement sound smaller than it was. People heard the name"
+    },
+    {
+      "image": 5,
+      "t": 28.5,
+      "line": "Calvin in an office near the courthouse. The office had"
+    },
+    {
+      "image": 6,
+      "t": 35.6,
+      "line": "a bowl of wrapped mints. By the third year, the"
+    },
+    {
+      "image": 7,
+      "t": 43,
+      "line": "barber shop gave the first introduction. The office gave the"
+    },
+    {
+      "image": 8,
+      "t": 50.1,
+      "line": "person a number that looked like evidence. Most of the"
+    }
+  ]
+}
