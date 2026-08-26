@@ -1,0 +1,115 @@
+{
+  "schema": "the-ledger-music-plan-v1",
+  "researched_on": "2026-08-26",
+  "scope": "Weeks 01-04 ke YouTube long videos aur YouTube/TikTok Shorts",
+  "license": {
+    "provider": "Pixabay",
+    "label": "Free for use under the Pixabay Content License",
+    "license_url": "https://pixabay.com/service/license-summary/",
+    "note": "Track page ka screenshot ya PDF save karo. Yeh public-domain guarantee nahi hai; source page aur license evidence hamesha sambhal kar rakho. Content ID ya platform claim ka zero-risk promise koi source nahi deta."
+  },
+  "youtube_audio_library": {
+    "url": "https://www.youtube.com/audiolibrary",
+    "help_url": "https://support.google.com/youtube/answer/3376882?hl=en",
+    "note": "YouTube-only upload ke liye official Audio Library ka track bhi use ho sakta hai. TikTok par reuse karne se pehle us track ki license/attribution terms check karo."
+  },
+  "download_steps": [
+    "Neeche apne week ka exact Pixabay source page kholo.",
+    "Page par Free for use under the Pixabay Content License aur Free download check karo.",
+    "Free download par click karke MP3 save karo; temporary direct download URL share nahi kiya gaya, kyun ke woh expire ho sakta hai.",
+    "File ko neeche diye gaye filename se rename karo aur source page plus license page ka screenshot save karo.",
+    "CapCut mein Audio > Sounds/From device > imported MP3 se file add karo."
+  ],
+  "capcut_mix": {
+    "voice_volume": "100%",
+    "music_start_volume": "7%",
+    "music_if_voice_is_covered": "4-6%",
+    "fade_in": "1 second",
+    "fade_out": "2 seconds",
+    "long_video": "Track chhota ho to duplicate/loop karo aur cuts ko sentence breaks par rakho.",
+    "shorts": "Shorts ke liye strongest 30-55 second section trim karo; YouTube Shorts aur TikTok dono mein same low bed use kar sakte ho.",
+    "rule": "Voice clear rehni chahiye; music sirf atmosphere ho, second speaker nahi."
+  },
+  "weeks": [
+    {
+      "week": "01",
+      "video_title": "They Called Him The Church Treasurer",
+      "story_fit": "Closed account, blue receipts aur trusted church treasurer wali investigation ke liye tense piano bed.",
+      "track": {
+        "title": "Tense Crime Documentary Piano",
+        "artist": "Universfield",
+        "duration": "1:24",
+        "source_url": "https://pixabay.com/music/solo-piano-tense-crime-documentary-piano-175502/",
+        "filename": "the-ledger-week-01-tense-crime-documentary-piano.mp3",
+        "review_note": "Research check par Pixabay page ne Free for use under the Pixabay Content License dikhaya; Content ID Registered badge visible nahi tha. Upload se pehle page dobara check karna."
+      },
+      "use_map": [
+        {"asset": "YouTube long", "instruction": "Low piano se opening account reveal start karo; 1:24 ke baad loop karo."},
+        {"asset": "Short 01 · YouTube + TikTok", "instruction": "Deposit slip reveal par music ka first tense rise rakho."},
+        {"asset": "Short 02 · YouTube + TikTok", "instruction": "Two ledgers explanation ke neeche steady section rakho; volume 5-7%."},
+        {"asset": "Short 03 · YouTube + TikTok", "instruction": "Final question se pehle half-second pause, phir piano hit aur fade out."}
+      ],
+      "credit_copy": "Music: Tense Crime Documentary Piano by Universfield, via Pixabay. Free under the Pixabay Content License. Source: https://pixabay.com/music/solo-piano-tense-crime-documentary-piano-175502/"
+    },
+    {
+      "week": "02",
+      "video_title": "She Was Seventy-Nine And She Was Sure She Was In Love",
+      "story_fit": "Romance scam ki emotional shuruaat, purani photo aur bank warnings ke liye soft emotional jazz.",
+      "track": {
+        "title": "Romantic Love Story",
+        "artist": "SOULFULJAMTRACKS",
+        "duration": "1:00",
+        "source_url": "https://pixabay.com/music/modern-jazz-romantic-love-story-564751/",
+        "filename": "the-ledger-week-02-romantic-love-story.mp3",
+        "review_note": "Research check par Pixabay page ne Free for use under the Pixabay Content License dikhaya; Content ID Registered badge visible nahi tha. Upload se pehle page dobara check karna."
+      },
+      "use_map": [
+        {"asset": "YouTube long", "instruction": "Warm opening aur personal messages ke neeche music rakho; 1:00 ke baad gentle loop karo."},
+        {"asset": "Short 01 · YouTube + TikTok", "instruction": "He never asked for money wali irony ke neeche soft section, volume 5%."},
+        {"asset": "Short 02 · YouTube + TikTok", "instruction": "Eleven-year-old photo reveal se pehle music ko 7% tak lift karo."},
+        {"asset": "Short 03 · YouTube + TikTok", "instruction": "Bank ki warning par music dip karo, final line ke baad 2-second fade out."}
+      ],
+      "credit_copy": "Music: Romantic Love Story by SOULFULJAMTRACKS, via Pixabay. Free under the Pixabay Content License. Source: https://pixabay.com/music/modern-jazz-romantic-love-story-564751/"
+    },
+    {
+      "week": "03",
+      "video_title": "The Roof Was Never Fixed",
+      "story_fit": "Real permit, fake company aur fifty-percent deposit ke contractor scam ke liye dark investigative underscore.",
+      "track": {
+        "title": "Crime Documentary Background",
+        "artist": "Universfield",
+        "duration": "2:06",
+        "source_url": "https://pixabay.com/music/mystery-crime-documentary-background-195364/",
+        "filename": "the-ledger-week-03-crime-documentary-background.mp3",
+        "review_note": "Research check par Pixabay page ne Free for use under the Pixabay Content License dikhaya; Content ID Registered badge visible nahi tha. Upload se pehle page dobara check karna."
+      },
+      "use_map": [
+        {"asset": "YouTube long", "instruction": "Permit aur deposit setup ke neeche slow dark bed; 2:06 ke baad loop/crossfade karo."},
+        {"asset": "Short 01 · YouTube + TikTok", "instruction": "Eighty-four-thousand-dollar hook par opening suspense section rakho."},
+        {"asset": "Short 02 · YouTube + TikTok", "instruction": "Real permit, fake company contrast par music ko 7% se 5% dip karo."},
+        {"asset": "Short 03 · YouTube + TikTok", "instruction": "Fifty-percent deposit warning ke baad beat ko hold karke clean ending do."}
+      ],
+      "credit_copy": "Music: Crime Documentary Background by Universfield, via Pixabay. Free under the Pixabay Content License. Source: https://pixabay.com/music/mystery-crime-documentary-background-195364/"
+    },
+    {
+      "week": "04",
+      "video_title": "Everyone In Town Was Invested",
+      "story_fit": "Small-town investment scam, perfect returns aur withdrawals start hone wali story ke liye slow tension drones.",
+      "track": {
+        "title": "Tension Documentary",
+        "artist": "AtlasAudio",
+        "duration": "2:02",
+        "source_url": "https://pixabay.com/music/ambient-tension-documentary-519912/",
+        "filename": "the-ledger-week-04-tension-documentary.mp3",
+        "review_note": "Research check par Pixabay page ne Free for use under the Pixabay Content License dikhaya; Content ID Registered badge visible nahi tha. Upload se pehle page dobara check karna."
+      },
+      "use_map": [
+        {"asset": "YouTube long", "instruction": "Town-wide trust build-up ke neeche drone bed; 2:02 ke baad smooth loop karo."},
+        {"asset": "Short 01 · YouTube + TikTok", "instruction": "Returns never dropped hook par opening tension section use karo."},
+        {"asset": "Short 02 · YouTube + TikTok", "instruction": "Barber shop recruitment montage mein steady 5-6% background rakho."},
+        {"asset": "Short 03 · YouTube + TikTok", "instruction": "Withdrawals started reveal par music ko briefly dip, phir 2-second fade out."}
+      ],
+      "credit_copy": "Music: Tension Documentary by AtlasAudio, via Pixabay. Free under the Pixabay Content License. Source: https://pixabay.com/music/ambient-tension-documentary-519912/"
+    }
+  ]
+}
