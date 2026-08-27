@@ -137,6 +137,16 @@ for phrase in (
 all_html = "\n".join((DOCS / name).read_text(encoding="utf-8") for name in files if name.endswith(".html"))
 if re.search(r"\bSaif\b", all_html, flags=re.IGNORECASE):
     fail("site pages: old reporter name Saif remains; use Anas")
+for awkward_phrase in (
+    "khool",
+    "Har hara button dabao",
+    "Guess mat karo",
+    "Tumhari instruction copy hai",
+):
+    if awkward_phrase.lower() in all_html.lower():
+        fail(f"site wording: awkward phrase remains: {awkward_phrase}")
+if re.search(r"\bkhol\b", all_html, flags=re.IGNORECASE):
+    fail("site wording: use the natural instruction 'kholo', not 'khol'")
 
 for week in range(1, 5):
     folder = WEEKS / f"week-{week:02}"
