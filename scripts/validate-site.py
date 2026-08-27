@@ -119,6 +119,24 @@ manual = (DOCS / "manual.html").read_text(encoding="utf-8") if (DOCS / "manual.h
 for phrase in ("Is site se video kaise banani hai?", "Long video ka poora order", "Teen Shorts ka poora order", "Agar samajh na aaye"):
     if phrase not in manual:
         fail(f"manual: missing beginner instruction {phrase}")
+for phrase in (
+    "https://f5tts-prod.duckdns.org/web/",
+    "https://tensor.art/",
+    "bm_mix_adam_lewis",
+    "Speed:</b> 0.8",
+    "Juggernaut XL-Ragnarok",
+    "DPM++ SDE Karras",
+    "Sampling steps:</b> 25",
+    "CFG scale:</b> 4",
+    "1280 × 720",
+    "EasyNegative chip select mat karo",
+):
+    if phrase not in manual:
+        fail(f"manual: exact tool setting/link is missing: {phrase}")
+
+all_html = "\n".join((DOCS / name).read_text(encoding="utf-8") for name in files if name.endswith(".html"))
+if re.search(r"\bSaif\b", all_html, flags=re.IGNORECASE):
+    fail("site pages: old reporter name Saif remains; use Anas")
 
 for week in range(1, 5):
     folder = WEEKS / f"week-{week:02}"
