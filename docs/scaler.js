@@ -2,6 +2,30 @@
   const $ = (s, r = document) => r.querySelector(s);
   const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
 
+  // Keep the beginner pages available from every working page, including
+  // older week files whose static menu predates the manual and channel setup.
+  const menu = $('.site-menu nav');
+  const script = document.currentScript;
+  if (menu && script) {
+    const root = new URL('.', script.src);
+    let after = $('a', menu);
+    for (const [file, label] of [
+      ['manual.html', 'Pehle manual parho'],
+      ['channel-setup.html', 'Channel setup']
+    ]) {
+      const existing = $(`a[href$="${file}"]`, menu);
+      if (existing) {
+        after = existing;
+        continue;
+      }
+      const link = document.createElement('a');
+      link.href = new URL(file, root).href;
+      link.textContent = label;
+      after.insertAdjacentElement('afterend', link);
+      after = link;
+    }
+  }
+
   document.addEventListener('click', async e => {
     const btn = e.target.closest('[data-copy]');
     if (!btn) return;

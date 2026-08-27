@@ -4,7 +4,7 @@
   --paper-2: #e5decc;
   --green: #3f6b46;
   --stamp: #a8362b;
-  --dim: #8a93a0;
+  --dim: #56616d;
   --rule: #2a3441;
   --pad: 18px;
 }
@@ -59,7 +59,7 @@ h2 { margin: 0; font-size: 20px; }
 }
 .tiles a:hover { background: var(--green); }
 .num, .pnum { color: var(--stamp); font-family: 'IBM Plex Mono', monospace; font-size: 12px; font-weight: 600; }
-.tiles .num { min-width: 28px; font-size: 15px; }
+.tiles .num { min-width: 28px; color: #ff7665; font-size: 15px; }
 .lbl { font-family: 'IBM Plex Serif', serif; font-size: 22px; }
 
 .work { padding-bottom: 40px; }
